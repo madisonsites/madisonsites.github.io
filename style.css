@@ -1,7 +1,7 @@
-body {background-color: #47FFCB}
+body {background-color: #24A0CC}
 
 .scripthead {font-family: 'Rock Salt', cursive;
-              color: #24A0CC;
+              color: #47FFCB;
               text-align: center;
 }
 
@@ -15,7 +15,7 @@ body {background-color: #47FFCB}
 }
 
 .pinktext {font-family: 'Open Sans Condensed', sans-serif;
-              color: #CC244B;
+              color: #FFC1BB;
           }
 p {text-align: center;}
 
@@ -24,7 +24,7 @@ img {width: 20em;
             height: 20em;
             border-style: solid;
             border-width: large;
-            border-color: #FFC1BB;
+            border-color: #CC244B;
             display: block;
             margin-right: auto;
             margin-left: auto;
@@ -36,7 +36,7 @@ img {width: 20em;
         height: 20em;
         border-style: solid;
             border-width: large;
-            border-color: #FFC1BB;
+            border-color: #CC244B;
             display: block;
             margin-right: auto;
             margin-left: auto;
