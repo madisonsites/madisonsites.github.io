@@ -17,10 +17,8 @@ body {background-color: #47FFCB}
 .pinktext {font-family: 'Open Sans Condensed', sans-serif;
               color: #CC244B;
           }
-<<<<<<< HEAD
 p {text-align: center;}
-=======
->>>>>>> master
+
 
 img {width: 20em;
             height: 20em;
@@ -34,7 +32,6 @@ img {width: 20em;
 
 .bold {font-weight: 900;}
 
-<<<<<<< HEAD
 .banner {width: 100%;
         height: 20em;
         border-style: solid;
@@ -45,6 +42,5 @@ img {width: 20em;
             margin-left: auto;
         }
 li {text-align: center;}
-=======
+
 .banner {}
->>>>>>> master
