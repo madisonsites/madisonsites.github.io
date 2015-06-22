@@ -1,0 +1,33 @@
+body {background-color: #47FFCB}
+
+.scripthead {font-family: 'Rock Salt', cursive;
+              color: #24A0CC;
+              text-align: center;
+}
+
+.basictext {font-family: 'Open Sans Condensed', sans-serif;
+              color: #688C99;
+              text-align: center;
+}
+
+.highlighttext {font-family: 'Open Sans Condensed', sans-serif;
+              color: #FFC1BB;
+}
+
+.pinktext {font-family: 'Open Sans Condensed', sans-serif;
+              color: #CC244B;
+          }
+
+img {width: 20em;
+            height: 20em;
+            border-style: solid;
+            border-width: large;
+            border-color: #FFC1BB;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+    }
+
+.bold {font-weight: 900;}
+
+.banner {}
