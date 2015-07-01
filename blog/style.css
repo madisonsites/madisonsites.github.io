@@ -1,0 +1,48 @@
+body {background-color: #24A0CC}
+
+.scripthead {font-family: 'Rock Salt', cursive;
+              color: #47FFCB;
+              text-align: center;
+}
+
+.basictext {font-family: 'Open Sans Condensed', sans-serif;
+              color: #688C99;
+              text-align: center;
+}
+
+.highlighttext {font-family: 'Open Sans Condensed', sans-serif;
+              color: #FFC1BB;
+}
+
+.pinktext {font-family: 'Open Sans Condensed', sans-serif;
+              color: #FFC1BB;
+          }
+p {text-align: center;
+font-family: 'Open Sans Condensed', sans-serif;
+              color: #FFC1BB;}
+
+
+img {width: 20em;
+            height: 20em;
+            border-style: solid;
+            border-width: large;
+            border-color: #CC244B;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+    }
+
+.bold {font-weight: 900;}
+
+.banner {width: 100%;
+        height: 20em;
+        border-style: solid;
+            border-width: large;
+            border-color: #CC244B;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        }
+li {text-align: center;}
+
+
