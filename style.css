@@ -17,6 +17,7 @@ body {background-color: #24A0CC}
 .pinktext {font-family: 'Open Sans Condensed', sans-serif;
               color: #FFC1BB;
           }
+p {text-align: center;}
 
 
 img {width: 20em;
@@ -40,6 +41,6 @@ img {width: 20em;
             margin-right: auto;
             margin-left: auto;
         }
-
+li {text-align: center;}
 
 .banner {}
