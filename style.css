@@ -21,7 +21,6 @@ p {text-align: center;}
 
 
 img {width: 20em;
-            height: 20em;
             border-style: solid;
             border-width: large;
             border-color: #CC244B;
@@ -29,6 +28,16 @@ img {width: 20em;
             margin-right: auto;
             margin-left: auto;
     }
+
+.regimg {width: 100%;
+        max-width: 50em;
+        border-style: solid;
+        border-width: large;
+        border-color: #CC244B;
+        display: block;
+        /*margin-right: auto;
+        margin-left: auto;*/
+}
 
 .bold {font-weight: 900;}
 
@@ -42,5 +51,7 @@ img {width: 20em;
             margin-left: auto;
         }
 li {text-align: center;}
+
+
 
 .banner {}
