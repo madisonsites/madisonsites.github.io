@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Madison [builds] Sites - About</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Merriweather:400,400italic,700italic" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="../css/bootstrap.min.css">
+		<link rel="stylesheet" href="../css/style.css">
+		<link rel="stylesheet" href="../css/icons.css">
+		<link rel="stylesheet" href="../css/animate.min.css">
+		<link rel="stylesheet" href="../css/font-awesome.min.css">
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+
+	<body id="home">
+
+		<div id="menu" class="menu-right">
+			<ul>
+				<li><a href="../index.html"><i class="fa fa-sun-o"></i>Home</a></li>
+				<li><a href="../about.html"><i class="fa fa-user"></i>About</a></li>
+				<li><a href="../contact.html"><i class="fa fa-envelope"></i>Contact</a></li>
+			</ul>
+		</div>
+
+		<div id="wrap">
+			<div id="main-nav" class="nav-bg">
+				<div class="container">
+					<div class="nav-header">
+							<a class="nav-brand" href="../index.html">Madison Sites</a>
+							<a class="menu-link nav-icon" href="#"><i class="icon-menu2"></i></a>
+						</div>
+				</div>
+			</div>
+
+			<section id="hero" class="light-typo">
+				<div id="cover-image" class="image-bg2 animated fadeIn"></div>
+				<div class="container welcome-content">
+					<div class="middle-text">
+						<h1>Technical Blog: Week 6</h1>
+						<h2>July 26, 2015</h2>
+					</div>
+				</div>
+			</section>
+
+			<div class="container content">
+
+  <section>
+       <p>I traversed that hallowed grounds of classes, attribute readers/writers/accesors, and scope this week. And, after all that, when presented with the option to blog on any of the above, I chose something completely different: Blocks, Procs, and Lambdas</p>
+<h1>Blocks</h1>
+    <p>Blocks are easy to understand in that Procs and Lambdas are applied to them. They're simply code blocks or methods: think of something as simple as the method to add numbers or as complicated as entering your order into a machine at a restaurant. The key to understanding the other two is how they react to the use of return...</p>
+
+  <h1>Lambdas</h1>
+    <p>If a block is made with Lambda (lambda {return "code block!"}), and uses return, it immediately exits itself not only itself but looks to the rest of the method for what to do next. If we revert back to ordering food (with a human this time), think of the process of a restaurant like a method: a host seats you, a server asks for drink, a server returns with drinks, the server asks for appetizers, the server returns for re-fills, the server asks for your main dish, the server returns with appetizers, and, eventually your meal. This is a bit like your server calling lambda on "what can I get you to drink?": they move to the next item in the method of "serve_meals". They don't just walk out of the restaurant. </p>
+
+    <h1>Procs</h1>
+    <p>If a block is made with Proc (Proc.new), and uses return, it immediately exits itself as well as the whole code block. Again with the food. What if you already know what you want as soon as you sit down to eat? Well, then your server can skip the rest of the "ordering food" method once they've asked you what you want to drink and you replied with "actually, here's everything I want". </p>
+			</div>
+
+			<footer>
+				<div class="copyright">
+					<div class="container">
+						<p class="pull-left">Created by Madison Sites</a></p>
+						<ul class="social-links pull-right">
+							<li><a href="https://twitter.com/madisonsites"><i class="fa fa-twitter fa-spin"></i></a></li>
+							<li><a href="https://instagram.com/madisonsites"><i class="fa fa-instagram"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/madisonsites"><i class="fa fa-linkedin"></i></a></li>
+						</ul>
+					</div>
+				</div>
+		</footer>
+	</div>
+
+		<script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="../js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="../js/placeholders.min.js"></script>
+		<script type="text/javascript" src="../js/wow.min.js"></script>
+		<script type="text/javascript" src="../js/custom.js"></script>
+
+	</body>
+</html>

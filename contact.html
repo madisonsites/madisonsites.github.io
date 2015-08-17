@@ -1,0 +1,142 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Madison [builds] Sites - Contact</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Merriweather:400,400italic,700italic" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/icons.css">
+		<link rel="stylesheet" href="css/animate.min.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+
+	<body id="home">
+
+		<div id="menu" class="menu-right">
+			<ul>
+				<li><a href="index.html"><i class="fa fa-sun-o"></i>Home</a></li>
+				<li><a href="about.html"><i class="fa fa-user"></i>About</a></li>
+				<li><a href="contact.html"><i class="fa fa-envelope"></i>Contact</a></li>
+			</ul>
+		</div>
+
+		<div id="wrap">
+			<div id="main-nav" class="nav-bg">
+				<div class="container">
+					<div class="nav-header">
+							<a class="nav-brand" href="index.html">Madison Sites</a>
+							<a class="menu-link nav-icon" href="#"><i class="icon-menu2"></i></a>
+						</div>
+				</div>
+			</div>
+
+			<section id="hero" class="light-typo googleMap" style="width:100%; height:448px;">
+				<div class="container welcome-content">
+				</div>
+			</section>
+
+			<section id="breadcrumb">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<ol class="breadcrumb">
+								<li><a href="index.html">Blog</a></li>
+								<li class="active">Contact</li>
+							</ol>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<div class="contact container content">
+				<header class="section-header">
+					<h1>Contact Form</h1>
+					<p>Take me to your leader! Morbo can't understand his teleprompter because he forgot how you say that letter that's shaped like a man wearing a hat.</p>
+				</header>
+						<div class="row">
+							<div class="col-xs-12 contact-info cta-message wow fadeInLeft">
+								<a class="btn btn-store btn-block" href="mailto:madison.sites@gmail.com">Send me an email!</a>
+							</div>
+						</div>
+					</div>
+
+
+
+			<footer>
+				<div class="copyright">
+					<div class="container">
+						<p class="pull-left">Created by Madison Sites</a></p>
+						<ul class="social-links pull-right">
+							<li><a href="https://twitter.com/madisonsites"><i class="fa fa-twitter fa-spin"></i></a></li>
+							<li><a href="https://instagram.com/madisonsites"><i class="fa fa-instagram"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/madisonsites"><i class="fa fa-linkedin"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</footer>
+		</div>
+		<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/placeholders.min.js"></script>
+		<script type="text/javascript" src="js/wow.min.js"></script>
+		<script type="text/javascript" src="js/custom.js"></script>
+
+		<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+		<script type="text/javascript">
+	/* google map ======================================= */
+		$(document).ready(function() {
+			function initializeGoogleMap() {
+				var myLatlng = new google.maps.LatLng(37.42565,-122.13535);
+				var myOptions = {
+					center: myLatlng,
+					zoom: 15,
+					mapTypeControl: false,
+					mapTypeId: google.maps.MapTypeId.HYBRID,
+					panControl: false,
+					zoomControl: false,
+					scaleControl: false,
+					streetViewControl: false,
+					scrollwheel: false
+			};
+
+			var styles = [{
+				stylers: [
+					{ hue: "#80B959" },
+					{ saturation: -20 }
+				]},{
+				featureType: "road",
+				elementType: "geometry",
+				stylers: [
+					{ lightness: 100 },
+					{ visibility: "simplified" }
+				]
+			}];
+
+			var map = new google.maps.Map(document.getElementById("hero"), myOptions);
+			map.setOptions({styles: styles});
+
+
+			var marker = new google.maps.Marker({
+				position: myLatlng,
+				center: myLatlng
+			});
+
+
+			google.maps.event.addDomListener(window, "resize", function() {
+				map.setCenter(myLatlng);
+			});
+
+			marker.setMap(map);
+			}
+
+			initializeGoogleMap();
+		});
+		</script>
+	</body>
+</html>
