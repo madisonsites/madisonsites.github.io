@@ -1,0 +1,53 @@
+body {
+    background-image: url("http://creativeroots.org/wp-content/uploads/2010/08/Golden-Gate.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: 100% 50%;
+}
+
+li {
+    list-style-type: none;
+}
+li a {
+    margin: 0px 10px;
+}
+ul {
+    margin: 0px;
+    padding: 20px;
+}
+
+pre {
+  background-color: rgba(11,151,161,.75);
+  color: white;
+  width: 75%;
+  max-width: 600px;
+  margin: 10px;
+  margin-left: 5%;
+  margin-right: auto;
+  padding: 10px;
+
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  line-height: 1.45em;
+  border-radius: 3px;
+}
+
+code {
+    background-color: rgba(100,100,100,.75);
+}
+
+#sidebar-wrapper {
+  float: right;
+  margin: 0 0 10px 10px;
+  width: 250px;
+  background: rgba(195,0,0,.75);
+  border-radius: 3px;
+}
+
+h1, h2, h3, h4, h5 {
+    color: rgb(52,124,14);
+}
+
+p, h3, h4, h2, h1 {
+    background-color: rgba(255,255,255,.75);
+}
