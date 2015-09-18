@@ -31,9 +31,6 @@ hr {
 	border-top: 1px solid #ccc;
 }
 
-img, embed, object, video, svg {
-	/*max-width: 100%;*/
-}
 p{
 	 border: 0;
 	 font-size: 100%;
@@ -390,7 +387,7 @@ pre {
 	bottom: 0;
 	width: 240px;
 	height: 100%;
-	background-color: #12131A;
+	background-color: #121417;
 	font-size: 13px;
 	font-weight: normal;
 	-webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
@@ -607,9 +604,6 @@ pre {
 .content h2, .content h3, .content h4 {
 	margin: 1em 0 .4em;
 }
-.content blockquote {
-	/* margin: 2em 0 1em; */
-}
 .content blockquote p {
 	font-style: italic;
 	font-size: 18px;
@@ -690,10 +684,6 @@ blockquote footer, blockquote small, blockquote .small {
 #author .author-info .author-twitter:hover {
 	border-bottom-color: #50abf1;
 }
-
-.media img {
-	/* border-radius: 0.25em; */
-}
 .media hr {
 	margin-top: 0;
 }
@@ -749,7 +739,7 @@ article .btn {
 }
 
 .post-popular {
-	border-top: 1px solid #ccc;
+	/*border-top: 1px solid #ccc;*/
 	/* border-bottom: 1px solid #ccc; */
 	margin: 1em 0;
 	padding: 1.5em 0 0 0;
@@ -757,7 +747,7 @@ article .btn {
 }
 
 .post-popular::before {
-	content: 'Popular post';
+	content: 'Favorite Sites';
 	position: absolute;
 	left: 0;
 	top: -12px;
@@ -1058,44 +1048,6 @@ address {
 .archives.content {
 	padding-top: 1em;
 }
-
-/* ------------------------------ login -------------------------- */
-.login{
-	/* width: 320px; */
-	/*font-family: "Open Sans", helvetica, arial, sans-serif;*/
-}
-.modal-body p {
-	font-size: 14px;
-	font-family: "Open Sans", helvetica, arial, sans-serif;
-}
-.login .modal-footer{
-	border-top: 0;
-	margin-top: 0px;
-	padding: 10px 20px 20px;
-	font-size: 14px;
-}
-.login .modal-header {
-	border: 0 none;
-	padding: 15px 15px 15px;
-}
-
-.login .forgot {
-	color: #797979;
-	margin-left: 0;
-	overflow: hidden;
-	text-align: center;
-	width: 100%;
-}
-.login .content {
-	padding: 0;
-}
-.modal-header .close {
-	margin-top: -2px;
-	font-size: 28px;
-}
-.modal-title {
-	font-weight: 700;
-}
 /* ------------------------------ social links -------------------------- */
 .social-links,
 .social-profiles {
@@ -1124,9 +1076,6 @@ address {
 	border-radius:50%;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-}
-.social-links li a i{
-	/* font-size: 16px; */
 }
 .social-links li a:hover {
 	color: #121417;
@@ -1353,4 +1302,22 @@ footer .copyright {
 	}
  }
 
+ .hero-marina-green {
+	background-image: url('../img/marina_green.jpg');
+}
 
+.hero-gg-bridge {
+	background-image: url('../img/gg_bridge.jpg');
+}
+
+.hero-lost-coast {
+	background-image: url('../img/lost_coast.jpg');
+}
+
+.full-width {
+	width: 100%;
+}
+
+html {
+	background-color: #121417;
+}

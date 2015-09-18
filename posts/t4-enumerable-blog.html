@@ -40,8 +40,8 @@
 				<div id="cover-image" class="hero-lost-coast animated fadeIn"></div>
 				<div class="container welcome-content">
 					<div class="middle-text">
-						<h1>Technical Blog: Week 6</h1>
-						<h2>July 26, 2015</h2>
+						<h1>Technical Blog: Week 4</h1>
+						<h2>July 12, 2015</h2>
 					</div>
 				</div>
 			</section>
@@ -60,23 +60,41 @@
 			</section>
 
 			<div class="container content">
+				<img src="http://internetcensus2012.bitbucket.org/images/geovideo.gif" class="full-width" />
 				<p>
-					I traversed that hallowed grounds of classes, attribute readers/writers/accesors, and scope this week. And, after all that, when presented with the option to blog on any of the above, I chose something completely different: Blocks, Procs, and Lambdas.
+					Hello world!
 				</p>
-				
-				<h1>Blocks</h1>
 				<p>
-					Blocks are easy to understand in that Procs and Lambdas are applied to them. They're simply code blocks or methods: think of something as simple as the method to add numbers or as complicated as entering your order into a machine at a restaurant. The key to understanding the other two is how they react to the use of return...
+					I don't think I can manage a single blog post without a silly pun. Ever.
+					Anyway, I'm a huge fan of travel and maps. The more I travel, the more I understand geography better and, more importantly, humans.
+					None of this, unfortuantely, helped me in my comprehension of map when it came to Ruby this week.
 				</p>
-				
-				<h1>Lambdas</h1>
 				<p>
-					If a block is made with Lambda (lambda {return "code block!"}), and uses return, it immediately exits itself not only itself but looks to the rest of the method for what to do next. If we revert back to ordering food (with a human this time), think of the process of a restaurant like a method: a host seats you, a server asks for drink, a server returns with drinks, the server asks for appetizers, the server returns for re-fills, the server asks for your main dish, the server returns with appetizers, and, eventually your meal. This is a bit like your server calling lambda on "what can I get you to drink?": they move to the next item in the method of "serve_meals". They don't just walk out of the restaurant. 
+					map is one of those things that my friends often offer as part of a solution to any of my exercises when I'm stuck and asking for help. Well, the time finally came for us to learn them so I couldn't use "we haven't covered that yet, so I shouldn't use it" as an excuse any longer. So, in an effort to solidify my own understanding, I would like to present to you:
+					map
 				</p>
-				
-				<h1>Procs</h1>
+				<h1>map</h1>
 				<p>
-					If a block is made with Proc (Proc.new), and uses return, it immediately exits itself as well as the whole code block. Again with the food. What if you already know what you want as soon as you sit down to eat? Well, then your server can skip the rest of the "ordering food" method once they've asked you what you want to drink and you replied with "actually, here's everything I want".
+					map is a great tool to use for arrays (essentially a list). In this example, since we're talking about maps, I'm going to create an array of my travels.
+				</p>
+				<img src="../img/t4/map_array.png"/>
+				<p>
+					It looks like that in my hurry to write everything down I wasn't much of a stickler in terms of capitalization. And, despite this, I happen to be botherd by poor or lacking capitals, so this needs fixing and map is just the guy for the job.
+				</p>
+				<img src ="../img/t4/map_array_capitalize.png"/>
+				<p>
+					As you'll see above, I used print so I could see what is output.
+					Next, we have my_travels.map, which is calling map to be applied to my list of countries. I defined them in the variable my_travels.
+					In the curly brackets, I define another variable within the pipes (||). I could have called it ketchup if I wanted, but country will do just fine as it shows us what map is looking at: each of the countries I listed.
+					Finally, like an ignorant husband, you have to be undeniably explicit in what you need accomplished, so I list my new variable (which the program will read as each of the countries individuall as it runs through all of them) with a call to capitalize them as it processes through.
+					In the end, we get a nice new array:
+				</p>
+				<img src ="../img/t4/map_array_output.png"/>
+				<p>
+					So, there you have it. That's map. It takes an array, formats it however you want, and returns it as another array that is uniquely its own.
+				</p>
+				<p>
+					If, for any reason, you feel like you still need more map in your life, I highly recommend one of my favorite sub-Reddits, <a href="https://www.reddit.com/r/MapPorn/">Map Porn</a>.
 				</p>
 			</div>
 
