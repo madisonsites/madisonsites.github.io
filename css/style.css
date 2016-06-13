@@ -747,7 +747,7 @@ article .btn {
 }
 
 .post-popular::before {
-	content: 'Favorite Sites';
+	content: 'Featured on...';
 	position: absolute;
 	left: 0;
 	top: -12px;
@@ -1320,4 +1320,10 @@ footer .copyright {
 
 html {
 	background-color: #121417;
+}
+
+#feature_sites {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
