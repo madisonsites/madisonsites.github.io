@@ -1,0 +1,3311 @@
+@media only screen and (max-width: 1680px) {
+    .homeHeroForeground {
+        bottom:-30%;
+    }
+
+    .homeHeroBackground {
+        bottom: -9%;
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1540px) {
+    .homeHeroForeground {
+        bottom:-25%;
+    }
+
+    .homeHeroBackground {
+        bottom: -6%;
+    }
+}
+
+@media only screen and (max-width: 1420px) {
+    .homeHeroForeground {
+        bottom:-20%;
+    }
+
+    .homeHeroBackground {
+        bottom: -3%;
+    }
+
+    .home .col-1-3,.landing-template-template-home .col-1-3 {
+        width: 300px;
+    }
+
+    .homeRuleTwoInnerWrap .col-1-3 {
+        width: 440px;
+    }
+
+    .homeRuleOneInnerWrap .col-left,.homeRuleThreeIcons {
+        padding-top: 0;
+        margin-top: 0;
+    }
+
+    .home .col-2-3,.landing-template-template-home .col-2-3 {
+        width: 660px;
+        height: auto;
+    }
+
+    .home .col-2-3.homeRuleOneScreen,.home .col-2-3.homeRuleThreeScreen,.landing-template-template-home .col-2-3.homeRuleOneScreen,.landing-template-template-home .col-2-3.homeRuleThreeScreen {
+        width: 780px;
+        height: auto;
+    }
+
+    .homeRuleTwoScreensWrap {
+        width: 660px;
+    }
+
+    .homeRuleOneScreen video,.homeRuleThreeScreen video {
+        width: 100%;
+        height: auto;
+    }
+
+    .homeRuleTwoPhoneWrap {
+        display: none;
+    }
+
+    .homeRuleFourInfographic {
+        width: 100%;
+    }
+
+    .nextStepsInnerWrap {
+        width: 100%;
+        padding: 40px 0 0;
+        box-sizing: border-box;
+    }
+
+    .footerUpperImageWrap {
+        width: 100%;
+    }
+
+    .footerUpperImageWrap img {
+        width: 80%;
+    }
+
+    #pricingSignupModal {
+        width: 1100px;
+    }
+
+    #pricingSignupModal h1 {
+        font-size: 60px;
+    }
+
+    .pricingBottomRow {
+        padding: 0 20px;
+    }
+
+    #pricingSignupModal .pricingFormWrap input {
+        width: 226px;
+    }
+
+    .col-1-2 {
+        width: 50%;
+        padding: 0 5%;
+    }
+
+    .col-1-2.col-padded {
+        padding: 0 5% 0 0;
+    }
+
+    .col-1-2.cdCoverandQuoteWrap,.col-1-2.cdLyricsWrap {
+        padding: 0 2.25%;
+    }
+
+    .features .standardHeroOuterWrap,.post-type-archive-classes .standardHeroOuterWrap {
+        background-position: 110% bottom;
+        background-size: auto 96%;
+    }
+
+    .method .standardHeroOuterWrap,.rule-two .standardHeroOuterWrap,.blog .standardHeroOuterWrap,.press .standardHeroOuterWrap,.evening-without-netflix .standardHeroOuterWrap,.thirty-four-day-free-trial .standardHeroOuterWrap {
+        background-position: 120% 20px;
+    }
+
+    .rule-three .standardHeroOuterWrap,.rule-four .standardHeroOuterWrap,.lunchbreak .standardHeroOuterWrap {
+        background-position: 104% 20px;
+    }
+
+    .budgeting-hits-2016 .standardHeroOuterWrap {
+        background-position: 126% center;
+        background-size: 36% auto;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageJesseWrap img {
+        max-width: 100%;
+    }
+
+    .jobs .featuresStandardInnerWrap .col-right img {
+        width: 100%;
+    }
+
+    .about .aboutPageJesseWrap .col-left {
+        width: 40%;
+    }
+
+    .about .aboutPageJesseWrap .col-right {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .homeHeroForeground {
+        bottom:-15%;
+    }
+
+    .homeHeroBackground {
+        bottom: 0%;
+    }
+
+    .methodRule1VisualSliderWrap {
+        width: 100%;
+    }
+
+    .blogHomeLoadMoreBtn {
+        width: 40%;
+    }
+
+    .post-type-archive-classes .standardHeroOuterWrap {
+        background-position: 120% 40px;
+        background-size: auto 80%;
+    }
+
+    .learn .standardHeroOuterWrap,.press .standardHeroOuterWrap {
+        background-position: 114% 40px;
+        background-size: auto 90%;
+    }
+
+    .learnMegaMenuInnerWrap {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .home .homeRuleOneInnerWrap,.home .homeRuleThreeInnerWrap,.landing-template-template-home .homeRuleOneInnerWrap,.landing-template-template-home .homeRuleThreeInnerWrap {
+        width: 100%;
+        box-sizing: border-box;
+        padding-left: 1.5%;
+        padding-right: 1.5%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageQuoteArea blockquote {
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 1220px) {
+    .topNavOuterWrap .topNavInnerWrap {
+        width:100%;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+
+    .homeHeroInnerWrap {
+        padding: 54px 20px 0;
+        width: 100%;
+        min-height: 948px;
+    }
+
+    .homeHeroInnerWrap h1 {
+        padding: 0 20% 24px;
+    }
+
+    .landing-template-template-home .homeHeroInnerWrap h1 {
+        padding: 0 8% 24px;
+    }
+
+    .homeHeroInnerWrap p {
+        padding: 0 28% 24px;
+    }
+
+    .homeHeroForeground {
+        bottom: -10%;
+    }
+
+    .homeHeroBackground {
+        bottom: 2%;
+    }
+
+    .homeRuleOneInnerWrap,.homeRuleTwoInnerWrap,.homeRuleThreeInnerWrap,.homeRuleFourInnerWrap {
+        width: 860px;
+    }
+
+    .home .col-1-3,.landing-template-template-home .col-1-3 {
+        width: 260px;
+    }
+
+    .homeRuleTwoInnerWrap .col-1-3 {
+        width: 300px;
+    }
+
+    .homeRuleOneInnerWrap .col-left,.homeRuleThreeIcons {
+        padding-top: 0;
+        margin-top: 0;
+    }
+
+    .homeRuleOneScreen,.home .col-2-3,.landing-template-template-home .col-2-3 {
+        width: 560px;
+        height: auto;
+    }
+
+    .homeRuleTwoScreensWrap {
+        width: 560px;
+    }
+
+    .homeRuleOneScreen video,.homeRuleThreeScreen video {
+        width: 100%;
+        height: auto;
+        margin-top: 60px;
+    }
+
+    .homeRuleTwoPhoneWrap {
+        display: none;
+    }
+
+    .homeRuleFourInfographic {
+        width: 100%;
+    }
+
+    .nextStepsInnerWrap {
+        width: 100%;
+        padding: 40px 0 0;
+        box-sizing: border-box;
+    }
+
+    .footerUpperImageWrap {
+        width: 100%;
+    }
+
+    .footerUpperImageWrap img {
+        width: 80%;
+    }
+
+    .homeYNABTree {
+        height: auto;
+        width: 100%;
+        text-align: center;
+        padding-top: 40px;
+    }
+
+    #homeTree-pos4,#homeTree-pos6,#homeTree-pos8,#homeTree-pos9,#homeTree-pos10,#homeTree-pos11,#homeTree-pos12,#homeTree-pos14,#homeTree-pos15,#homeTree-pos16,#homeTree-pos17,#homeTree-pos18,#homeTree-pos19,#homeTree-pos20,#homeTree-pos21,#homeTree-pos22,#homeTree-pos23,.homeTreeActualTree {
+        display: none;
+    }
+
+    #homeTree-pos1,#homeTree-pos2,#homeTree-pos3,#homeTree-pos5,#homeTree-pos7,#homeTree-pos13 {
+        display: inline-block;
+        position: relative;
+        bottom: auto;
+        left: auto;
+        margin: 0 10px;
+    }
+
+    .footerInnerWrap,.footerTopInnerWrap {
+        width: 100%;
+    }
+
+    #pricingSignupModal {
+        width: 1000px;
+    }
+
+    .pricingFormWrap input {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+    }
+
+    .pricingFormWrap .ctaBtn {
+        padding-top: 10px;
+    }
+
+    .pricingFeaturesWrap li {
+        padding-right: 0;
+        float: none;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .pricingFeaturesWrap {
+        width: 56%;
+    }
+
+    .pricingFormWrap {
+        width: 44%;
+    }
+
+    .pricingFeaturesWrap .pricingSupport {
+        display: none;
+    }
+
+    .standardHeroInnerWrap,.standardHeroNavWrap,.featuresStandardInnerWrap {
+        width: 100%;
+    }
+
+    .features .featuresStandardInnerWrap .col-2-3 {
+        width: 54%;
+        box-sizing: border-box;
+        padding-left: 4%;
+    }
+
+    .standardHeroInnerWrap p,.standardHeroInnerWrap h1 {
+        width: 80%;
+    }
+
+    .methodStandardInnerWrap .col-1-3 {
+        width: 34%;
+    }
+
+    .methodStandardInnerWrap .col-2-3 {
+        width: 90%;
+    }
+
+    .methodStandardInnerWrap {
+        box-sizing: border-box;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    body .featuresStandardOuterWrap .verticallyCentered .col-right {
+        float: right;
+        padding-left: 0;
+    }
+
+    #pricingPageWrapper {
+        width: 100%;
+    }
+
+    #pricingPageWrapper .pricingFeaturesWrap {
+        padding-left: 10%;
+        padding-right: 4%;
+    }
+
+    #pricingPageWrapper .pricingFormWrap {
+        padding-left: 0;
+        padding-right: 10%;
+    }
+
+    #pricingPageWrapper .pricingFormWrap h3 {
+        font-size: 24px;
+    }
+
+    .pricingTestimonialsInnerWrap {
+        width: 60%;
+    }
+
+    .pricingTestimonialItemWrap {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .pricingTestimonialsInnerWrap .pricingTestimonialItemWrap:first-child li {
+        padding: 0 8%;
+    }
+
+    .pricingTestimonialsInnerWrap .pricingTestimonialItemWrap:last-child li {
+        padding: 0 8%;
+    }
+
+    .pricingFAQWrap {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 80px 4%;
+    }
+
+    .pricingFAQItem li {
+        background-position: 96% 32px;
+        padding: 30px 6%;
+    }
+
+    .pricingFAQItem li h4 {
+        line-height: 1.4em;
+    }
+
+    .pricingTestimonialsOuterWrap h2 {
+        box-sizing: border-box;
+        padding-left: 4%;
+        padding-right: 4%;
+        line-height: 1.4em;
+    }
+
+    .blogHomeNav ul li a {
+        padding: 20px 14px;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeInnerBlogsWrap,.singleBlogRecentInnerWrap {
+        width: 100%;
+        box-sizing: border-box;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .blogHomeFeaturedImageWrap,.blogHomeOuterBlogsWrap .homeBlogFeaturedTextWrap {
+        width: 100%;
+        float: none;
+    }
+
+    .blogHomeOuterBlogsWrap .homeBlogFeaturedTextWrap {
+        height: auto;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeFeaturedOuterWrap .homeBlogFeaturedAuthorWrap {
+        float: left;
+        width: 30%;
+        margin-bottom: 16%;
+    }
+
+    .blogHomeOuterBlogsWrap .homeBlogArticlesOuterWrap,.singleBlogRecentArticlesWrap,.blogHomeOuterBlogsWrap div {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .blogHomeOuterBlogsWrap div {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .homeBlogArticlesOuterWrap .blogHomeIndWrap:nth-child(3n),.blogHomeOuterBlogsWrap div .blogHomeIndWrap:nth-child(3n),.singleBlogRecentArticlesWrap .blogHomeIndWrap:nth-child(3n),.learnNetflixBlogPostsWrap .blogHomeIndWrap:nth-child(3n) {
+        margin-right: 3%;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeIndWrap,.singleBlogRecentArticlesWrap .blogHomeIndWrap,.learnNetflixBlogPostsWrap .blogHomeIndWrap {
+        width: 48%;
+        margin-right: 3%;
+    }
+
+    body .blogHomeOuterBlogsWrap .blogHomeIndWrap:nth-child(even),.learnNetflixBlogPostsWrap .blogHomeIndWrap:nth-child(2) {
+        margin-right: 0;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeIndWrap .blogIndTextWrap,.single-post .blogIndTextWrap,.learnNetflixBlogPostsWrap .blogIndTextWrap {
+        width: 76%;
+        float: left;
+        margin-left: 4%;
+    }
+
+    .single-post .blogHomeIndWrap,.singleBlogRecentArticlesWrap .blogHomeIndWrap:nth-child(3n) {
+        width: 380px;
+        float: none;
+        margin: 0 auto 24px;
+        display: block;
+    }
+
+    .featuresStandardOuterWrap .row .learn34GuidesWrap .col-1-4,.thirty-four-day-free-trial .row .learnNetflix4UpLinkWrap .col-1-4:first-child,.post-type-archive-guides .row .learnNetflix4UpLinkWrap .col-1-4:first-child,.post-type-archive-guides .row .learnNetflix4UpLinkWrap .col-1-4:last-child {
+        min-height: 380px;
+        width: 23%;
+        margin: 0 1% 4%;
+        background-size: cover;
+    }
+
+    .classesThreeUpIndWrap.col-1-3 {
+        margin: 0;
+        padding: 0 2%;
+        width: 33%;
+    }
+
+    .classesIndPostWrap img {
+        width: 50%;
+    }
+
+    .classesIndPostTextWrap {
+        width: 50%;
+        box-sizing: border-box;
+        padding-left: 5%;
+    }
+
+    .classesIndPostWrap {
+        overflow: hidden;
+        padding: 30px;
+    }
+
+    .learnNavWrap {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 30px 2%;
+    }
+
+    .learnNetflix4UpLinkWrap .col-1-4,.row .learnNetflix4UpLinkWrap .col-1-4:first-child {
+        width: 23%;
+        margin: 0 1%;
+        min-height: 196px;
+        display: block;
+        float: left;
+    }
+
+    .evening-without-netflix .learnOneMinuteVideoWrapper.videoWrapper {
+        width: 96%;
+        height: 0;
+        padding-bottom: 56.25%;
+        padding-top: 25px;
+        position: relative;
+        float: none;
+        margin: 0 2% 2%;
+    }
+
+    .evening-without-netflix .learnOneMinuteVideoWrapper.videoWrapper iframe {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+
+    .learnNetflixPodcastsOuterWrap.col-1-2 {
+        width: 96%;
+        float: none;
+        padding: 0;
+        margin: 0 2% 2%;
+    }
+
+    .learnNetflixBlogPostsWrap {
+        width: 96%;
+        padding: 0;
+        margin: 0 2% 2%;
+    }
+
+    .thirty-four-day-free-trial .learnNetflixPodcastsOuterWrap.col-1-2 {
+        width: 60%;
+        margin: 0 auto 2%;
+    }
+
+    .guideSingleContentOuterWrap {
+        width: 100%;
+    }
+
+    .blogSingleContentInnerWrap.guideSingleContentInnerWrap {
+        width: 100%;
+        float: left;
+        padding-left: 380px;
+        padding-right: 20px;
+    }
+
+    .blogSingleContentInnerWrap.guideSingleContentInnerWrap p,.blogSingleContentInnerWrap.guideSingleContentInnerWrap h2,.blogSingleContentInnerWrap.guideSingleContentInnerWrap h3,.blogSingleContentInnerWrap.guideSingleContentInnerWrap h4,.blogSingleContentInnerWrap.guideSingleContentInnerWrap ul,.blogSingleContentInnerWrap.guideSingleContentInnerWrap ol {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .appsMakeEasyWrap {
+        box-sizing: border-box;
+        padding: 0 2%;
+        width: 100%;
+    }
+
+    .appsMakeEasyWrap img {
+        box-sizing: border-box;
+    }
+
+    .pressUpperLogosWrap {
+        display: none;
+    }
+
+    .pressLowerTextWrap {
+        width: 100%;
+    }
+
+    .pressLowerTextWrap p {
+        padding: 0 20%;
+        text-align: center;
+    }
+
+    .pressItemsOuterWrap {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 2%;
+    }
+
+    .pressIndWrap {
+        width: 30%;
+        margin: 0 1.5% 3%;
+        box-sizing: border-box;
+    }
+
+    .budgeting-hits-2016 .standardHeroOuterWrap {
+        background-image: none;
+    }
+
+    .topNotificationInnerWrap {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .single-landing .blogSingleContentOuterWrap {
+        width: 100%;
+    }
+
+    .landingTwoColumnWrap {
+        padding: 0 4%;
+    }
+
+    .jobsIntroTextWrap img,#arrowCR {
+        display: none;
+    }
+
+    .jobsIntroTextWrap .footerUpperImageWrap img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .jobsCostaRicaBG img#polaroidCR {
+        width: 400px;
+        right: auto;
+        left: 40px;
+        top: 20px;
+    }
+
+    .jobOpeningIndWrap {
+        width: 32%;
+        height: 280px;
+    }
+
+    .jobOpenings3UpWrap {
+        padding-right: 1%;
+        padding-left: 1%;
+    }
+
+    .jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(2),.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(5),.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(8) {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .learnMMLearnTimeWrap ul li a strong {
+        width: 92px;
+        height: 92px;
+    }
+
+    .learnMMLearnTimeWrap {
+        padding: 26px 0 42px;
+    }
+
+    .home .homeRuleOneInnerWrap .col-1-3,.home .homeRuleThreeInnerWrap .col-1-3,.landing-template-template-home .homeRuleOneInnerWrap .col-1-3,.landing-template-template-home .homeRuleThreeInnerWrap .col-1-3 {
+        width: 22%;
+    }
+
+    .about .standardHeroOuterWrap {
+        background-position: 118% 20px;
+        background-size: auto 76%;
+    }
+
+    .about .aboutPageJesseWrap .col-left {
+        width: 30%;
+        padding-left: 2%;
+    }
+
+    .about .aboutPageJesseWrap .col-right {
+        width: 70%;
+        padding: 0 2% 0 4%;
+    }
+
+    .aboutTabs li {
+        padding: 20px 0;
+        margin: 0 1%;
+    }
+
+    .aboutTabs {
+        padding: 0 2%;
+        text-align: center;
+    }
+
+    .vc_normalContainerRow {
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+}
+
+@media only screen and (max-width: 1060px) {
+    h1 {
+        font-size:60px;
+    }
+
+    .topNavOuterWrap {
+        z-index: 997;
+    }
+
+    .topNavLinks {
+        margin-top: 6px;
+    }
+
+    .topNavLinks li a {
+        padding: 10px 3%;
+        margin: 4px 0;
+        font-size: 15px;
+    }
+
+    .topNavLinks li.topLoginLink a {
+        padding: 10px 10px;
+        margin: 0 10px 0 4px;
+    }
+
+    .topNavLinks li.topSignUpLink a {
+        padding: 10px 10px;
+    }
+
+    .homeHeroInnerWrap h1 {
+        padding: 0 10% 24px;
+    }
+
+    .homeHeroInnerWrap p {
+        padding: 0 22% 24px;
+    }
+
+    .homeSideNav {
+        display: block;
+        opacity: 1;
+        box-shadow: 0 1px 10px 0 rgba(0,0,0,0.2);
+        padding: 16px 0;
+        position: relative;
+        text-align: center;
+        width: 100%;
+        background-color: #ffffff;
+        height: auto;
+        left: auto;
+        top: auto;
+    }
+
+    .homeSideNav li {
+        display: inline-block;
+        opacity: 1;
+        margin: 0 10px;
+    }
+
+    .col-left,.col-right {
+        float: none;
+    }
+
+    .home .col-1-3,.home .col-2-3,.col-1-3,.col-2-3,.col-1-2 .col-1-4,.landing-template-template-home .col-1-3,.landing-template-template-home .col-2-3 {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .col-1-4 {
+        float: none;
+    }
+
+    .homeRuleOneInnerWrap,.homeRuleTwoInnerWrap,.homeRuleThreeInnerWrap,.homeRuleFourInnerWrap,.nextStepsInnerWrap {
+        width: 100%;
+        padding: 40px 0;
+        box-sizing: border-box;
+    }
+
+    .home .col-2-3.homeRuleThreeScreen,.landing-template-template-home .col-2-3.homeRuleThreeScreen {
+        width: 100%;
+    }
+
+    .homeRuleOneInnerWrap .col-left {
+        padding-top: 0;
+    }
+
+    .homeRuleOneIcons,.homeRuleTwoIcons,.homeRuleThreeIcons {
+        text-align: center;
+    }
+
+    .homeRuleOneIcons li,.homeRuleTwoIcons li,.homeRuleThreeIcons li {
+        display: inline-block;
+        float: none;
+    }
+
+    .homeRuleOneInnerWrap .homeRuleOneScreen video,.homeRuleThreeInnerWrap .homeRuleThreeScreen video {
+        display: none;
+    }
+
+    .homeRuleOneInnerWrap h2,.homeRuleTwoInnerWrap h2,.homeRuleThreeInnerWrap h2,.homeRuleFourInnerWrap h2,.homeRuleOneInnerWrap h3,.homeRuleTwoInnerWrap h3,.homeRuleThreeInnerWrap h3,.homeRuleFourInnerWrap h3 {
+        text-align: center;
+    }
+
+    .homeRuleFourInnerWrap p {
+        padding: 0px 20px 40px;
+        text-align: left;
+    }
+
+    .homeRuleTwoIcons,.homeRuleThreeIcons {
+        margin-top: 0;
+    }
+
+    .homeRuleOneScreenMobile,.homeRuleThreeScreenMobile {
+        display: block;
+        list-style: none;
+        position: relative;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .home .homeRuleOneInnerWrap .col-1-3,.home .homeRuleThreeInnerWrap .col-1-3,.landing-template-template-home .homeRuleOneInnerWrap .col-1-3,.landing-template-template-home .homeRuleThreeInnerWrap .col-1-3 {
+        width: 100%;
+    }
+
+    .home .col-2-3.homeRuleOneScreen .homeRuleOneScreenAnimationOuterWrap1,.homeRuleThreeScreenAnimationPhoneOuterWrap,.homeRuleTwoScreenAnimationPhoneOuterWrap,.home .homeRuleScreensNumberedButtons,.landing-template-template-home .col-2-3.homeRuleOneScreen .homeRuleOneScreenAnimationOuterWrap1,.homeRuleTwoScreenAnimationPhoneOuterWrap,.landing-template-template-home .homeRuleScreensNumberedButtons {
+        display: none;
+    }
+
+    .home .col-2-3.homeRuleOneScreen,.landing-template-template-home .col-2-3.homeRuleOneScreen {
+        width: 100%;
+    }
+
+    .homeRuleOneScreenMobile li,.homeRuleTwoCatGoalTextBG1,.homeRuleThreeScreenMobile li {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+        position: relative;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .homeRuleOneScreenMobile li:last-child,.homeRuleThreeScreenMobile li:last-child {
+        margin-bottom: 0px;
+    }
+
+    .homeRuleOneScreenMobile li strong,.homeRuleThreeScreenMobile li strong {
+        display: block;
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        background-color: #f3783c;
+        font-size: 24px;
+        font-weight: normal;
+        font-style: normal;
+        color: #ffffff;
+        position: relative;
+        z-index: 5;
+        margin: 0 auto;
+        box-sizing: border-box;
+        padding-top: 4px;
+    }
+
+    .homeRuleThreeScreenMobile li strong {
+        background-color: #cedd3e;
+    }
+
+    .homeRuleOneScreenMobile li p,.homeRuleTwoCatGoalTextBG1 p,.homeRuleTwoCatGoalTextBG2 p,.homeRuleThreeScreenMobile li p {
+        padding: 30px;
+        box-sizing: border-box;
+        font-size: 16px;
+        color: #ffffff;
+        position: relative;
+        z-index: 4;
+        top: -20px;
+        border-radius: 20px;
+        background-color: #3e4147;
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+    }
+
+    .homeRuleOneScreenMobile li img,.homeRuleThreeScreenMobile li img {
+        width: 100%;
+        position: relative;
+        z-index: 3;
+        top: -40px;
+        box-shadow: 0 1px 10px 0 rgba(0,0,0,0.2);
+    }
+
+    .homeRuleOneScreen {
+        height: auto;
+    }
+
+    .homeRuleTwoScreensWrap {
+        display: block;
+    }
+
+    .homeRuleTwoImageWrap {
+        min-height: initial;
+        height: auto;
+        left: auto;
+        position: relative;
+        top: auto;
+    }
+
+    .homeRuleTwoScreensWrap {
+        position: relative;
+        height: auto;
+        width: 100%;
+        box-sizing: border-box;
+        z-index: 8;
+    }
+
+    .homeRuleTwoCatGoalBG {
+        height: auto;
+        width: 100%;
+        z-index: 4;
+        top: -20px;
+        position: relative;
+    }
+
+    .homeRuleTwoCatGoalTextBG2 {
+        height: auto;
+        width: 100%;
+        z-index: 7;
+        top: -20px;
+        position: relative;
+        bottom: auto;
+        left: auto;
+    }
+
+    .homeRuleTwoCatGoalBottomBG {
+        height: auto;
+        left: auto;
+        position: relative;
+        top: -20px;
+        width: 100%;
+        z-index: 5;
+    }
+
+    .homeRuleTwoCatGoalTextBG1,.homeRuleTwoCatGoalTextBG2 {
+        background: none;
+        padding: 0;
+        position: relative;
+        box-sizing: border-box;
+        width: 100%;
+        opacity: 1;
+    }
+
+    .homeRuleTwoCatGoalTextBG1 {
+        left: auto;
+        top: 0;
+        margin: 0 auto;
+    }
+
+    .homeRuleTwoCatGoalTextBG1 span,.homeRuleTwoCatGoalTextBG2 span {
+        background-color: #85c3e9;
+        display: block;
+        float: none;
+        font-weight: normal;
+        margin: 0 auto;
+        padding: 6px 0 0;
+        position: relative;
+        z-index: 10;
+    }
+
+    .homeRuleTwoCatGoalTextBG2 {
+        z-index: 8;
+    }
+
+    .homeRuleTwoInnerWrap .col-1-3 {
+        width: 100%;
+    }
+
+    .homeRuleTwoPhoneWrap {
+        background-size: 270px auto;
+        height: 548px;
+        left: auto;
+        margin: 0 auto;
+        position: relative;
+        top: -60px;
+        width: 270px;
+        z-index: 7;
+    }
+
+    .homeRuleTwoInnerWrap {
+        padding-bottom: 0;
+        height: auto;
+    }
+
+    .homeRuleOneOuterWrap,.homeRuleTwoOuterWrap,.homeRuleThreeOuterWrap,.homeRuleFourOuterWrap,.homeNextStepsOuterWrap {
+        padding: 0 10%;
+    }
+
+    .homeRuleThreeScreen {
+        height: auto;
+    }
+
+    .nextStepsInnerWrap {
+        padding: 0 0 40px;
+    }
+
+    .nextStepsInnerWrap p {
+        padding: 0 0 24px;
+    }
+
+    .nextStepsInnerWrap h3 {
+        line-height: 1.4em;
+    }
+
+    .footerUpperImageWrap {
+        width: 100%;
+        bottom: -40px;
+        position: relative;
+    }
+
+    .footerUpperImageWrap img {
+        width: 100%;
+    }
+
+    .footerOuterWrap .footerTopInnerWrap,.footerOuterWrap .footerInnerWrap {
+        width: 100%;
+    }
+
+    .homeHeroInnerWrap {
+        min-height: 860px;
+    }
+
+    .homeHeroForeground {
+        bottom: -10%;
+    }
+
+    .homeHeroBackground {
+        bottom: 1%;
+    }
+
+    #homeTree-pos7,#homeTree-pos13 {
+        display: none;
+    }
+
+    #pricingSignupModal {
+        width: 800px;
+    }
+
+    #pricingSignupModal h1 {
+        font-size: 48px;
+    }
+
+    .pricingStepsWrap p {
+        font-size: 16px;
+    }
+
+    .pricingFormWrap .ctaBtn button {
+        font-size: 15px;
+    }
+
+    .pricingFormWrap .ctaBtn {
+        padding-top: 0;
+    }
+
+    .pricingFormWrap h3 {
+        line-height: 1.3em;
+        margin-top: 0;
+    }
+
+    .pricingFeaturesWrap li strong {
+        margin-bottom: 2px;
+    }
+
+    .pricingFeaturesWrap {
+        width: 54%;
+    }
+
+    .homeNextStepsOuterWrap {
+        padding-top: 40px;
+    }
+
+    .features .standardHeroOuterWrap,.about .standardHeroOuterWrap,.method .standardHeroOuterWrap,.rule-two .standardHeroOuterWrap,.rule-three .standardHeroOuterWrap,.rule-four .standardHeroOuterWrap,.post-type-archive-classes .standardHeroOuterWrap,.blog .standardHeroOuterWrap,.learn .standardHeroOuterWrap,.press .standardHeroOuterWrap,.lunchbreak .standardHeroOuterWrap,.evening-without-netflix .standardHeroOuterWrap,.thirty-four-day-free-trial .standardHeroOuterWrap,.budgeting-hits-2016 .standardHeroOuterWrap {
+        background-image: none;
+    }
+
+    .methodStandardInnerWrap .col-1-2.col-left {
+        float: left;
+    }
+
+    .methodStandardInnerWrap .col-1-2.col-right {
+        float: right;
+    }
+
+    .methodWhyItWorksWrap img {
+        width: 60%;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeFeaturedOuterWrap .homeBlogFeaturedAuthorWrap {
+        margin-bottom: 22%;
+    }
+
+    .blogHeroImageColorGreen .blogSingleHeroGradient {
+        background-color: rgba(0,0,0,0.25);
+    }
+
+    .blogSingleHeroTextWrap h1,.blogSingleHeroDate {
+        text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+    }
+
+    .blogSingleHeroTextWrap {
+        padding: 0 16%;
+    }
+
+    .blogSinglePostLink {
+        width: 160px;
+    }
+
+    .blogSinglePostLink a {
+        background-size: auto 24px;
+        padding-top: 4px;
+    }
+
+    .blogSinglePreviousPostLink a {
+        padding-left: 36px;
+    }
+
+    .blogSingleNextsPostLink a {
+        padding-right: 50px;
+        background-position: 120px 0;
+    }
+
+    .blogSingleContentOuterWrap {
+        width: 100%;
+    }
+
+    .single-post .blogHomeIndWrap,.singleBlogRecentArticlesWrap .blogHomeIndWrap:nth-child(3n) {
+        width: 100%;
+        display: inline-block;
+    }
+
+    .featuresStandardOuterWrap .row .learn34GuidesWrap .col-1-4,.thirty-four-day-free-trial .row .learnNetflix4UpLinkWrap .col-1-4:first-child,.thirty-four-day-free-trial .row .learnNetflix4UpLinkWrap .col-1-4:last-child,.post-type-archive-guides .row .learnNetflix4UpLinkWrap .col-1-4:first-child,.post-type-archive-guides .row .learnNetflix4UpLinkWrap .col-1-4:last-child {
+        min-height: 380px;
+        width: 45%;
+        margin: 0 2% 4%;
+        background-size: cover;
+        float: left;
+        display: block;
+    }
+
+    .pricingMainWrap .pricingSubhead {
+        padding: 0 30px;
+    }
+
+    .playlistCD4UPWrap .col-1-4,.row .playlistCD4UPWrap .col-1-4:first-child,.row .playlistCD4UPWrap .col-1-4:last-child {
+        float: left;
+    }
+
+    .landingTwoColumnWrap .col-1-2 {
+        width: 100%;
+    }
+
+    .landingTwoColumnWrap .col-1-2.col-padded {
+        padding: 0;
+    }
+
+    .jobsLowerBenefitsWrap .col-left,.jobsLowerBenefitsWrap .col-right {
+        float: left;
+    }
+
+    .jobOpeningIndWrap {
+        width: 32%;
+        height: 300px;
+    }
+
+    .jobsIntroTextWrap .footerUpperImageWrap img {
+        right: auto;
+    }
+
+    .landingTwoColumnWrap .col-text img {
+        width: 40%;
+    }
+
+    .landingTwoColumnWrap.outerRowGrey {
+        padding: 4%!important;
+    }
+
+    #mixtapeMainYTPlayer {
+        display: block;
+    }
+
+    #mixtapeMainYTButton {
+        display: inline-block;
+    }
+
+    #mixtapeMainSCPlayer,#mixtapeMainSCButton {
+        display: none;
+    }
+
+    .learnMMLearnTimeWrap ul li a strong {
+        width: 40px;
+        height: 40px;
+    }
+
+    .learnMMLearnTimeWrap {
+        padding: 26px 0 12px;
+        width: 40%;
+    }
+
+    .learnMMLearningItemsWrap {
+        width: 56%;
+    }
+
+    .learnMMLearnTimeWrap h3 {
+        font-size: 24px;
+    }
+
+    .learnMMLearnTimeWrap p {
+        font-size: 18px;
+        margin-bottom: 4px;
+    }
+
+    .learnMMLearnTimeWrap ul li {
+        display: block;
+        overflow: hidden;
+    }
+
+    .learnMMLearnTimeWrap ul li a {
+        padding: 0 0 8px 20px;
+    }
+
+    .learnMMLearnTimeWrap ul li a strong {
+        float: left;
+        display: block;
+    }
+
+    .learnMMLearnTimeWrap ul li a span {
+        float: left;
+        display: block;
+        width: auto;
+        padding: 6px 0 0 6px;
+    }
+
+    .learnMMLearnTimeWrap ul li a span br {
+        display: none;
+    }
+
+    .learnMegaMenuOuterWrap {
+        z-index: 996;
+    }
+
+    .topNavLinks li:nth-child(3) a {
+        padding: 10px 16px 10px 3%;
+    }
+
+    .vc_singleColumnText p,.vc_singleColumnText h3,.vc_singleColumnText h2 {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageJesseWrap img {
+        max-width: 40%;
+    }
+
+    .about .aboutPageJesseWrap .col-left {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .about .aboutPageJesseWrap .col-left,.about .aboutPageJesseWrap .col-right {
+        width: 100%;
+        padding: 0 4%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageQuoteArea blockquote {
+        margin: 0 0 30px;
+        display: inline-block;
+        width: 60%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageQuoteArea .col-left {
+        text-align: center;
+        width: 100%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageQuoteArea .col-right {
+        width: 100%;
+    }
+
+    .aboutMeetTeamUpperTextWrap {
+        padding: 20px 5% 0;
+    }
+
+    .aboutGamerStatsInnerWrap h3,.aboutSciFiInnerWrap h3 {
+        font-size: 50px;
+    }
+
+    .aboutGamerStatsInnerWrap {
+        height: 264px;
+    }
+
+    .aboutTeamRandomStatsInd {
+        width: 33%;
+        margin-bottom: 30px;
+        height: 172px;
+        box-sizing: border-box;
+        padding: 0 2%;
+    }
+
+    .aboutEmployeeIndWrap {
+        width: 24%;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    #pricingSignupModal {
+        width:700px;
+    }
+
+    #pricingSignupModal h1 {
+        font-size: 40px;
+    }
+
+    .pricingStepsWrap li {
+        padding: 28px 0 0 20px;
+    }
+
+    .pricingStepsWrap strong {
+        font-size: 20px;
+        height: 40px;
+        margin-right: 10px;
+        padding-top: 7px;
+        width: 40px;
+    }
+
+    .pricingStepsWrap p {
+        font-size: 15px;
+        font-weight: normal;
+    }
+
+    .standardHeroOuterWrap {
+        overflow: visible;
+    }
+
+    .standardHeroInnerWrap {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        overflow: visible;
+    }
+
+    .standardHeroNavWrap {
+        width: 100%;
+        box-shadow: 0 1px 10px 0 rgba(0,0,0,0.2);
+    }
+
+    .standardHeroNavWrap ul {
+        text-align: center;
+    }
+
+    .featuresHeroNav ul li a {
+        height: 130px;
+    }
+
+    .featuresStandardInnerWrap {
+        padding: 60px 20px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .learnBottomNextSectionInnerWrap {
+        padding: 60px 20px 0;
+    }
+
+    .features .featuresStandardInnerWrap .col-left {
+        display: none;
+    }
+
+    .featureMobileImage {
+        display: block;
+        width: 68%;
+        margin: 20px auto 0;
+    }
+
+    .featuresStandardInnerWrap.methodStandardInnerWrap .col-text h3 {
+        text-align: left;
+    }
+
+    .featuresStandardInnerWrap .col-text p {
+        padding-bottom: 20px;
+    }
+
+    .features .featuresStandardInnerWrap .col-right {
+        padding: 0;
+        text-align: center;
+    }
+
+    .featuresStandardInnerWrap .col-text p {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+
+    .featuresStandardInnerWrap.methodStandardInnerWrap .col-text p {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .methodRule1VisualSliderWrap {
+        margin-bottom: 30px;
+    }
+
+    .features .featuresStandardInnerWrap .col-text h2,.featuresStandardInnerWrap .col-text h3 {
+        text-align: center;
+    }
+
+    .featuresStandardInnerWrap .col-text img {
+        margin: 0 auto 24px;
+    }
+
+    body .featuresStandardOuterWrap .verticallyCentered {
+        display: block;
+    }
+
+    body .featuresStandardOuterWrap .verticallyCentered .col-left,body .featuresStandardOuterWrap .verticallyCentered .col-right {
+        width: 100%;
+        display: block;
+        float: none;
+        padding: 0;
+    }
+
+    .methodStandardInnerWrap {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    body .featuresStandardOuterWrap .verticallyCentered .col-right {
+        float: none;
+        padding-left: 0;
+    }
+
+    body .methodStandardInnerWrap p.methodWorksStepsHeader {
+        text-align: left;
+    }
+
+    .methodWorksStepsWrap {
+        margin-bottom: 40px;
+    }
+
+    .featuresStandardInnerWrap .col-2-3 img.methodRule1-HowWorksImage {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .featuresStandardInnerWrap.methodStandardInnerWrap .col-text.methodWhyItWorksWrap h3 {
+        text-align: center;
+    }
+
+    #pricingPageWrapper .pricingFeaturesWrap {
+        display: none;
+    }
+
+    #pricingPageWrapper .pricingStepsWrap {
+        width: 50%;
+        margin: 0 auto 30px;
+    }
+
+    #pricingPageWrapper .pricingFormWrap {
+        float: none;
+        padding: 0;
+        width: 50%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #pricingPageWrapper .pricingStepsWrap li {
+        width: 100%;
+        display: block;
+        float: none;
+        height: auto;
+        padding: 24px 5% 20px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+
+    #pricingPageWrapper .pricingStepsWrap li span {
+        display: none;
+    }
+
+    #pricingPageWrapper .pricingStepsWrap li p {
+        float: none;
+        text-align: center;
+        max-width: initial;
+    }
+
+    #pricingPageWrapper .pricingStepsWrap strong {
+        float: none;
+        margin: 0 auto 10px;
+    }
+
+    #pricingPageWrapper .pricingFormWrap p {
+        text-align: center;
+    }
+
+    #pricingPageWrapper .pricingFormWrap form {
+        display: none;
+    }
+
+    #pricingMobileBtn {
+        display: block;
+    }
+
+    #pricingMobileBtn a {
+        width: 100%;
+        box-sizing: border-box;
+        font-size: 15px;
+    }
+
+    .blogHomeNav ul li a {
+        font-size: 12px;
+        padding: 20px 12px;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeFeaturedOuterWrap .homeBlogFeaturedAuthorWrap {
+        margin-bottom: 26%;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeFeaturedOuterWrap .homeBlogFeaturedAuthorWrap {
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeInnerBlogsWrap {
+        padding: 40px 20px 0;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeFeaturedOuterWrap {
+        padding-bottom: 40px;
+        margin-bottom: 40px;
+    }
+
+    .homeBlogArticlesOuterWrap .blogHomeIndWrap:nth-child(3n),.blogHomeOuterBlogsWrap div .blogHomeIndWrap:nth-child(3n),.singleBlogRecentArticlesWrap .blogHomeIndWrap:nth-child(3),.learnNetflixBlogPostsWrap .blogHomeIndWrap:nth-child(3n) {
+        margin-right: 0;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeIndWrap,.singleBlogRecentArticlesWrap .blogHomeIndWrap,.learnNetflixBlogPostsWrap .blogHomeIndWrap {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeIndWrap .blogIndTextWrap,.single-post .blogIndTextWrap,.learnNetflixBlogPostsWrap .blogIndTextWrap {
+        width: 80%;
+        float: left;
+        padding-left: 0;
+    }
+
+    .blogSingleSubheading {
+        padding: 0 12%;
+    }
+
+    .blogSingleContentInnerWrap p {
+        padding: 0 12% 24px;
+    }
+
+    .blogSingleContentInnerWrap ul,.blogSingleContentInnerWrap ol {
+        padding: 0 12% 24px 24%;
+    }
+
+    .blogSingleContentInnerWrap h2 {
+        padding: 18px 20% 24px;
+    }
+
+    .single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row p,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h2,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h3,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h4 {
+        padding: 0 0 24px;
+    }
+
+    .single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row {
+        padding: 0 10%;
+    }
+
+    #mc_embed_signup input[type=email] {
+        display: block;
+        width: 80%;
+    }
+
+    #mc_embed_signup .clear,.mc-field-group {
+        float: none;
+    }
+
+    #mc_embed_signup form {
+        padding: 0 12% 24px;
+        box-sizing: border-box;
+    }
+
+    .btn {
+        margin: 20px 0 0 0;
+    }
+
+    .classesThreeUpIndWrap.col-1-3 {
+        margin: 0 0 40px;
+        padding: 0 4%;
+        width: 100%;
+        float: none;
+    }
+
+    .post-type-archive-classes .featuresStandardInnerWrap h3 {
+        padding: 0 4%;
+    }
+
+    .classesIndPostWrap img {
+        width: 100%;
+        float: none;
+        margin-bottom: 30px;
+    }
+
+    .classesIndPostTextWrap {
+        width: 100%;
+        float: none;
+        padding-left: 0;
+    }
+
+    .classesIndPostWrap {
+        padding: 30px 0;
+    }
+
+    .learnNetflix4UpLinkWrap .col-1-4,.row .learnNetflix4UpLinkWrap .col-1-4:first-child,.row .learnNetflix4UpLinkWrap .col-1-4:last-child {
+        float: none;
+        width: 50%;
+        margin: 0 auto 20px;
+        text-align: center;
+        min-height: initial;
+    }
+
+    .thirty-four-day-free-trial .learnNetflixPodcastsOuterWrap.col-1-2 {
+        width: 100%;
+        margin: 0 auto 2%;
+    }
+
+    .blogSingleContentInnerWrap.guideSingleContentInnerWrap {
+        width: 100%;
+        float: none;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .guideTOCWrap {
+        display: none;
+    }
+
+    .guideSingleContentOuterWrap {
+        padding: 40px 0;
+    }
+
+    .appsMakeEasyWrap .col-1-3 {
+        float: none;
+        padding: 20px 10%;
+        width: 100%;
+    }
+
+    .pressLowerTextWrap {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 5% 4%;
+    }
+
+    .pressLowerTextWrap p {
+        padding: 0 0 20px;
+    }
+
+    .pressItemsOuterWrap {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 2%;
+    }
+
+    .pressIndWrap {
+        width: 30%;
+        margin: 0 1.5% 3%;
+        box-sizing: border-box;
+    }
+
+    .pressItemsOuterWrap {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 2%;
+    }
+
+    .pressIndWrap,.pressItemsOuterWrap .pressIndWrap:nth-child(3n) {
+        width: 47.5%;
+        margin: 0 1% 3%;
+    }
+
+    .generalToast {
+        padding: 30px;
+        width: 334px;
+    }
+
+    #blogToast .btn {
+        bottom: 73px;
+        margin: 0;
+        padding: 14px 22px 13px;
+        position: absolute;
+        right: 30px;
+    }
+
+    .page-template-template-specialpages .featuresStandardInnerWrap .cdCoverandQuoteWrap blockquote {
+        font-size: 36px;
+    }
+
+    .jobsIntroTextWrap p {
+        padding: 20px 0 0;
+    }
+
+    .jobsVideoWrapper {
+        height: 0;
+        padding-bottom: 56.25%;
+        padding-top: 25px;
+        position: relative;
+        max-width: initial;
+    }
+
+    .jobsVideoWrapper iframe {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+
+    .jobsCostaRicaBG {
+        background-size: contain;
+    }
+
+    .jobsCostaRicaBG img#polaroidCR {
+        display: block;
+        left: auto;
+        margin: 80px auto 0;
+        right: auto;
+        top: auto;
+        width: 400px;
+        position: relative;
+    }
+
+    .jobsLowerBenefitsWrap .col-left,.jobsLowerBenefitsWrap .col-right {
+        float: none;
+        width: 100%;
+    }
+
+    .jobs .featuresStandardInnerWrap .col-text h3 {
+        text-align: center;
+    }
+
+    .jobs .featuresStandardInnerWrap .col-right img {
+        width: 60%;
+    }
+
+    .jobsCostaRicaBG {
+        margin-bottom: 80px;
+    }
+
+    .jobOpeningIndWrap,.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(2),.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(5),.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(8) {
+        width: 46%;
+        margin: 0 2% 4%;
+        height: 260px;
+    }
+
+    .learnMMLearningItemsWrap li span {
+        display: none;
+    }
+
+    .topNavLinks li a {
+        padding: 10px 1%;
+    }
+
+    .aboutJesseFirstBullets {
+        padding: 0 16%;
+    }
+
+    .aboutMeetTeamUpperTextWrap {
+        padding: 20px 22% 0;
+    }
+
+    .aboutMeetTeamGeoWrap img {
+        position: absolute;
+        display: block;
+        left: 50%;
+        transform: translate(-50%,15%);
+    }
+
+    .aboutMeetTeamGeoIndWrap h4 {
+        font-size: 50px;
+    }
+
+    .aboutMeetTeamGeoIndWrap span {
+        height: 50px;
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+    }
+
+    .aboutMeetTeamGeoIndWrap {
+        width: 19.5%;
+        height: 110px;
+        position: relative;
+    }
+
+    .aboutCatIndWrap {
+        height: 220px;
+    }
+
+    .aboutSciFiOuterWrap {
+        width: 100%;
+        border-right: none;
+        border-bottom: solid 3px rgba(7,127,175,0.3);
+        float: none;
+        padding-right: 0;
+    }
+
+    .aboutSciFiOuterWrap img {
+        width: 20%;
+        float: none;
+        display: block;
+        margin: 0 auto 30px;
+    }
+
+    .aboutSciFiInnerWrap {
+        width: 100%;
+        overflow: hidden;
+        float: none;
+    }
+
+    .aboutSciFiInnerWrap div {
+        width: 33%;
+        float: left;
+        margin-bottom: 40px;
+    }
+
+    .aboutGamerStatsOuterWrap {
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .aboutGamerStatsInnerWrap {
+        height: 312px;
+    }
+
+    .aboutSkillOuterWrap {
+        width: 100%;
+        float: none;
+        border-right: none;
+        border-bottom: solid 3px rgba(7,127,175,0.3);
+        padding-bottom: 40px;
+    }
+
+    .aboutSkillInnerWrap {
+        width: 32%;
+    }
+
+    .aboutBeardOliveOuterWrap {
+        float: none;
+        width: 100%;
+    }
+
+    .aboutBeardOliveInnerWrap {
+        height: 420px;
+    }
+
+    .about .featuresStandardInnerWrap .aboutBeardOliveInnerWrap img {
+        max-width: 36%;
+    }
+
+    .aboutTabs {
+        padding: 0;
+    }
+
+    .aboutTabs li {
+        font-size: 12px;
+        width: 12.2%;
+        margin: 0.8%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    h1 {
+        font-size:54px;
+    }
+
+    .topNavOuterWrap .topNavInnerWrap .topNavLinks {
+        display: none;
+    }
+
+    .topNavOuterWrap {
+        position: relative;
+        top: auto;
+        left: auto;
+        right: auto;
+    }
+
+    .mobileMenuLink {
+        display: block;
+        width: 56px;
+        height: 56px;
+        position: fixed;
+        right: 8px;
+        top: 2px;
+        border-radius: 50%;
+        background-color: #ffffff;
+        z-index: 9997;
+        white-space: nowrap;
+        text-indent: 100%;
+        overflow: hidden;
+    }
+
+    .learnMegaMenuInnerWrap .mobileMenuLink {
+        display: none;
+    }
+
+    .mobileMenuLink span {
+        background-color: #3e4147;
+        height: 4px;
+        width: 34px;
+        left: 11px;
+        border-radius: 60px;
+        display: block;
+        position: absolute;
+    }
+
+    .mobileMenuTopHamb {
+        top: 18px;
+    }
+
+    .mobileMenuMiddleHamb {
+        top: 26px;
+    }
+
+    .mobileMenuBottomHamb {
+        top: 34px;
+    }
+
+    #mobileMenuWrap {
+        display: block;
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(133,195,233,0.9);
+        z-index: 9996;
+        text-align: center;
+    }
+
+    #mobileMenuWrap ul {
+        list-style: none;
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+
+    #mobileMenuWrap li {
+        display: block;
+        margin: 2px 0;
+    }
+
+    #mobileMenuWrap li a {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 24px;
+        display: block;
+        padding: 8px 0;
+    }
+
+    .learnMenuMobileBackBtn {
+        display: block;
+        position: absolute;
+        background-image: url('../css/images/learnNavBackArrow.png');
+        background-repeat: no-repeat;
+        width: 16px;
+        height: 36px;
+        background-size: 16px auto;
+        overflow: hidden;
+        white-space: nowrap;
+        text-indent: 120%;
+        top: 20px;
+        left: 20px;
+    }
+
+    #mobileSignupLowerLink {
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 20px;
+        font-size: 20px;
+        color: #f3783c;
+        text-transform: uppercase;
+        display: block;
+        background-color: #ffffff;
+        text-decoration: none;
+    }
+
+    .learnMegaMenuOuterWrap {
+        display: block;
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        left: auto;
+        right: -100%;
+        bottom: 0;
+        background-color: rgba(133,195,233,0.9);
+        z-index: 9995;
+        text-align: center;
+        box-shadow: none;
+        opacity: 0;
+    }
+
+    .learnMegaMenuInnerWrap {
+        width: 100%;
+        padding: 0;
+    }
+
+    .learnMMLearnTimeWrap {
+        width: 100%;
+        border: none;
+        padding: 0;
+        float: none;
+    }
+
+    .learnMMLearnTimeWrap h3 {
+        color: #ffffff;
+        font-size: 28px;
+        margin-bottom: 0;
+        margin-top: 30px;
+    }
+
+    .learnMMLearnTimeWrap p {
+        color: #ffffff;
+        font-style: italic;
+    }
+
+    .learnMMLearnTimeWrap ul {
+        overflow: hidden;
+    }
+
+    .learnMMLearnTimeWrap ul li {
+        width: 25%;
+        padding: 2%;
+        float: left;
+        text-align: center;
+        box-sizing: border-box;
+    }
+
+    .learnMMLearnTimeWrap ul li a {
+        overflow: hidden;
+        padding: 0;
+    }
+
+    .learnMMLearnTimeWrap ul li a strong {
+        float: none;
+        border: none;
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+
+    .learnMMLearnTimeWrap ul li.learnMMTime-LunchBreak a strong {
+        background-color: #d8e9f7;
+    }
+
+    .learnMMLearnTimeWrap ul li a span br {
+        display: inline;
+    }
+
+    .learnMMLearnTimeWrap ul li a span {
+        color: #ffffff;
+        padding: 6px 0 0 0;
+        float: none;
+        margin: 0;
+    }
+
+    .learnMMLearningItemsWrap {
+        float: none;
+        width: 100%;
+        border: none;
+    }
+
+    .learnMMLearningItemsWrap li a {
+        border-top: 1px solid #077faf;
+        padding: 10px 0;
+    }
+
+    .learnMMLearningItemsWrap li a:hover {
+        background-color: transparent;
+    }
+
+    .learnMMLearningItemsWrap li a i {
+        background-color: rgba(255,255,255,0.1);
+        color: #12323d;
+    }
+
+    .learnMMLearningItemsWrap li strong {
+        display: block;
+        color: #ffffff;
+        text-align: left;
+        margin-bottom: 1px;
+    }
+
+    .learnMMLearningItemsWrap li span {
+        display: block;
+        text-align: left;
+        margin: 0 0 0 60px;
+        color: #12323d;
+    }
+
+    .homeHeroInnerWrap h1 {
+        padding: 0 10% 24px;
+    }
+
+    .homeHeroInnerWrap p {
+        font-size: 20px;
+        padding: 0 16% 18px;
+    }
+
+    .footerInnerWrap {
+        padding: 48px 0% 100px;
+    }
+
+    #homeTree-pos1,#homeTree-pos2,#homeTree-pos3,#homeTree-pos5 {
+        margin: 0 6px;
+        height: 90px;
+        width: 90px;
+    }
+
+    #homeTree-pos1 div,#homeTree-pos2 div,#homeTree-pos3 div,#homeTree-pos5 div {
+        height: 80px;
+        width: 80px;
+        background-size: 80px auto;
+    }
+
+    .nextStepsInnerWrap {
+        margin-top: 20px;
+    }
+
+    .nextStepsInnerWrap h3 {
+        margin-bottom: 20px;
+    }
+
+    .nextStepsInnerWrap {
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+
+    .homeHeroInnerWrap {
+        min-height: 740px;
+    }
+
+    .homeHeroForeground {
+        bottom: -10%;
+    }
+
+    .methodWorksStepsHeader {
+        margin-top: 10px;
+    }
+
+    .methodWhyItWorksWrap img {
+        width: 80%;
+    }
+
+    .methodWhyItWorksWrap h3,.methodWhyItWorksWrap p {
+        width: 80%;
+    }
+
+    .pricingTestimonialsInnerWrap {
+        width: 60%;
+    }
+
+    .pricingTestimonialItemWrap {
+        width: 100%;
+        float: none;
+    }
+
+    .pricingFAQWrap {
+        padding: 60px 4%;
+    }
+
+    .pricingFAQItem {
+        float: none;
+        padding-right: 0;
+        width: 100%;
+    }
+
+    .pricingMainWrap {
+        padding-top: 0;
+    }
+
+    .blogHomeNav {
+        display: none;
+    }
+
+    #blogHomeMobileNavBtn {
+        display: block;
+    }
+
+    .standardHeroOuterWrap {
+        padding-top: 0;
+    }
+
+    .blogHomeNavMobile ul {
+        list-style: none;
+        padding: 30px;
+    }
+
+    .blogHomeNavMobile ul li a {
+        display: block;
+        width: 100%;
+        text-align: center;
+        font-size: 14px;
+        color: #3e4147;
+        padding: 8px 0;
+        box-sizing: border-box;
+        text-decoration: none;
+    }
+
+    .blogHomeLoadMoreBtn {
+        width: 60%;
+    }
+
+    .blogSinglePostLink {
+        display: none;
+    }
+
+    .blogSingleHeroTextWrap {
+        bottom: auto;
+        top: 44%;
+        transform: translate(-50%,-50%);
+        width: 100%;
+        padding: 20px;
+    }
+
+    .blogSingleContentOuterWrap {
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+
+    .blogSingleContentInnerWrap {
+        padding: 30px 0;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeInnerBlogsWrap,.singleBlogRecentInnerWrap {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .blogSingleSubheading {
+        padding: 0 0;
+    }
+
+    .blogSingleContentInnerWrap p {
+        padding: 0 0 24px;
+    }
+
+    .blogSingleContentInnerWrap ul,.blogSingleContentInnerWrap ol {
+        padding: 0 0 24px 12%;
+    }
+
+    .blogSingleContentInnerWrap h2 {
+        padding: 18px 10% 24px;
+    }
+
+    #mc_embed_signup form {
+        padding: 0 0 24px;
+    }
+
+    .lunchbreak .featuresStandardInnerWrap p,.evening-without-netflix .featuresStandardInnerWrap p,.thirty-four-day-free-trial .featuresStandardInnerWrap p {
+        padding: 0 5%;
+    }
+
+    .learnLunchbreak2UpVideosWrap .col-1-2 {
+        float: none;
+        width: 100%;
+        padding: 0 0 2%;
+    }
+
+    .learnBottomNextSectionInnerWrap img {
+        width: 80%;
+    }
+
+    .learnNetflix4UpLinkWrap .col-1-4,.row .learnNetflix4UpLinkWrap .col-1-4:first-child,.row .learnNetflix4UpLinkWrap .col-1-4:last-child {
+        width: 80%;
+    }
+
+    .thirtyFourDaysCenterImageWrap img {
+        width: 100%;
+    }
+
+    .learnNavWrap li.learnNavStep2 {
+        left: 26%;
+    }
+
+    .learnNavWrap li.learnNavStep3 {
+        right: 26%;
+    }
+
+    #nonMobileCTA {
+        display: none;
+    }
+
+    #mobileCTA {
+        display: block;
+    }
+
+    .topNotificationInnerWrap p {
+        padding: 0 12% 0 12%;
+    }
+
+    #topNotificationClose {
+        right: auto;
+        left: 20px;
+    }
+
+    .playlistCD4UPWrap .col-1-4,.row .playlistCD4UPWrap .col-1-4:first-child,.row .playlistCD4UPWrap .col-1-4:last-child {
+        width: 50%;
+    }
+
+    .landingTwoColumnWrap {
+        padding: 0;
+    }
+
+    .jobsLowerBenefitsWrap .col-1-2 {
+        padding: 0;
+    }
+
+    .jobs .jobsLowerBenefitsEven {
+        padding: 0 5%;
+    }
+
+    .jobOpeningIndWrap,.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(2),.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(5),.jobOpenings3UpWrap .jobOpeningIndWrap:nth-child(8) {
+        width: 100%;
+        margin: 0 0 4%;
+        height: auto;
+    }
+
+    .jobsIntroTextWrap .jobOpeningIndWrap .ctaBtn {
+        bottom: auto;
+        left: auto;
+        position: relative;
+    }
+
+    .essb_links li a .essb_network_name {
+        display: none;
+    }
+
+    .featuresHeroNav ul li:first-child a,.featuresHeroNav ul li:nth-child(2) a,.featuresHeroNav ul li:nth-child(3) a,.featuresHeroNav ul li:nth-child(4) a,.featuresHeroNav ul li:nth-child(5) a,.featuresHeroNav ul li:nth-child(6) a {
+        background-color: #ffffff;
+    }
+
+    .featuresHeroNav ul li a strong {
+        display: none;
+    }
+
+    .featuresHeroNav {
+        background-color: #ffffff;
+        height: 70px;
+    }
+
+    .single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row p,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h2,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h3,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h4 {
+        padding: 0 0 24px;
+    }
+
+    .single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row {
+        padding: 0 10%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageQuoteArea blockquote {
+        width: 80%;
+    }
+
+    .aboutCatIndWrap {
+        height: 200px;
+    }
+
+    .aboutCatIndWrap h4 {
+        font-size: 50px;
+        bottom: 32px;
+    }
+
+    .aboutTeamRandomStatsInd {
+        width: 33%;
+        margin-bottom: 30px;
+        height: 172px;
+        box-sizing: border-box;
+        padding: 0 2%;
+    }
+
+    .aboutTeamRandomStatsInd h4 {
+        font-size: 60px;
+    }
+
+    .aboutTeamRandomCircle {
+        height: 80px;
+        width: 80px;
+        margin: -40px 0 0 -40px;
+    }
+
+    .aboutGamerStatsInnerWrap {
+        height: 260px;
+    }
+
+    .aboutBeardOliveInnerWrap {
+        height: 360px;
+    }
+
+    .about .featuresStandardInnerWrap .aboutBeardOliveInnerWrap img {
+        max-width: 36%;
+    }
+
+    .aboutTabs {
+        display: none;
+    }
+
+    .aboutEmployeeIndWrap {
+        width: 32%;
+    }
+
+    .blogSingleContentInnerWrap .vc_rightTextHero h2,.blogSingleContentInnerWrap .vc_rightTextHero p {
+        text-align: center;
+    }
+
+    .vc_normalContainerRow {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size:40px;
+    }
+
+    .homeHeroInnerWrap h1 {
+        padding: 0 8% 24px;
+    }
+
+    .homeHeroInnerWrap p {
+        padding: 0 12% 24px;
+        font-size: 18px;
+    }
+
+    .heroLowerMessageWrap {
+        font-size: 18px;
+        padding: 30px 0;
+    }
+
+    .heroLowerMessageWrap br {
+        display: none;
+    }
+
+    .heroLowerMessageWrap strong span {
+        top: 14px;
+        left: 4px;
+        width: 78px;
+        height: 2px;
+    }
+
+    .homeRuleOneOuterWrap,.homeRuleTwoOuterWrap,.homeRuleThreeOuterWrap,.homeRuleFourOuterWrap,.homeNextStepsOuterWrap {
+        padding: 0;
+    }
+
+    .homeNextStepsOuterWrap {
+        padding-top: 40px;
+    }
+
+    .homeRuleFourInnerWrap {
+        padding: 0 20px 40px;
+    }
+
+    .footerOuterWrap .footerOuterItem {
+        border: none;
+        float: none;
+        margin: 0 auto;
+        padding: 46px 0 0px;
+        width: 100%;
+    }
+
+    .footerOuterWrap .footerInnerWrap {
+        margin: 48px 20% 0px;
+        width: 60%;
+        padding: 10px 0 60px 0;
+        border-top: 1px solid #3a5a64;
+    }
+
+    .footerOuterWrap .footerInnerWrap .footerOuterItem:nth-child(2) {
+        border-top: none;
+    }
+
+    .footerTopInnerWrap p {
+        line-height: 1.4em;
+    }
+
+    .footerUpperImageWrap img {
+        bottom: -4px;
+    }
+
+    .homeHeroInnerWrap {
+        min-height: 680px;
+    }
+
+    .homeHeroForeground {
+        bottom: -8%;
+    }
+
+    .homeRuleFourInfographic {
+        display: none;
+    }
+
+    .homeRuleFourInfographicMobile {
+        display: block;
+        width: 100%;
+    }
+
+    .nextStepsInnerWrap h2 {
+        font-size: 40px;
+    }
+
+    .featuresHeroNav ul li a {
+        height: 100px;
+    }
+
+    .standardHeroInnerWrap h1,.standardHeroInnerWrap p {
+        width: 100%;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .standardHeroInnerWrap.standardHeroWithNav h1,.standardHeroInnerWrap.standardHeroWithNav p {
+        width: 100%;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+
+    .featuresStandardInnerWrap .col-text p {
+        font-size: 16px;
+    }
+
+    .featureMobileImage {
+        width: 80%;
+    }
+
+    .featuresStandardInnerWrap .col-text p {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    body .featuresStandardOuterWrap .verticallyCentered .col-right {
+        float: none;
+        padding-left: 0;
+    }
+
+    .featuresStandardInnerWrap .col-2-3 img.methodRule1-HowWorksImage {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .handle::after {
+        background-size: 74% auto;
+        font-size: 36px;
+        height: 40px;
+        line-height: 64px;
+        margin: -20px 0 0 -18px;
+        width: 40px;
+    }
+
+    .methodStandardInnerWrap .col-1-2.col-left,.methodStandardInnerWrap .col-1-2.col-right {
+        float: none;
+        width: 100%;
+    }
+
+    #pricingPageWrapper .pricingStepsWrap {
+        width: 80%;
+    }
+
+    #pricingPageWrapper .pricingFormWrap {
+        width: 80%;
+    }
+
+    #pricingPageWrapper h1 {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .blogHomeLoadMoreBtn {
+        width: 80%;
+    }
+
+    .blogHomeIndWrap .homeBlogFeaturedAuthorWrap {
+        height: 40px;
+        width: 40px;
+    }
+
+    .blogSingleHeroTextWrap h1 {
+        font-size: 36px;
+    }
+
+    .blogSingleContentInnerWrap h2 {
+        padding: 18px 0 24px;
+    }
+
+    body .blogBreadcrumbs {
+        display: none;
+    }
+
+    .lunchbreak .featuresStandardInnerWrap p,.evening-without-netflix .featuresStandardInnerWrap p,.thirty-four-day-free-trial .featuresStandardInnerWrap p {
+        padding: 0;
+    }
+
+    .learnBottom3UpWrap .col-1-3,.featuresStandardOuterWrap .learnBottom3UpWrap .col-1-3:nth-child(4),.featuresStandardOuterWrap .learnBottom3UpWrap .col-1-3:nth-child(7) {
+        padding: 0 0 50px;
+        margin: 0;
+    }
+
+    .evening-without-netflix .learnOneMinuteVideoWrapper.videoWrapper {
+        margin: 0 0 20px;
+        width: 100%;
+    }
+
+    .learnNetflixPodcastsOuterWrap.col-1-2,.thirty-four-day-free-trial .learnNetflixPodcastsOuterWrap.col-1-2 {
+        width: 100%;
+        margin: 0 0 2%;
+    }
+
+    .learnPodcastIndOuterWrap h4 {
+        float: none;
+        width: 100%;
+    }
+
+    .learnPodcastIndOuterWrap a {
+        width: 100%;
+        float: none;
+        background-image: none;
+        text-align: center;
+        padding: 16px 10px 10px;
+        display: block;
+    }
+
+    .learnPodcastIndOuterWrap {
+        margin-bottom: 20px;
+    }
+
+    .evening-without-netflix .featuresStandardInnerWrap.learnBottomNextSectionInnerWrap p {
+        font-size: 18px;
+        padding: 0 5% 30px;
+    }
+
+    .thirtyFourDaysCTAWrap .ctaBtn {
+        display: block;
+        margin: 0 auto 20px;
+    }
+
+    .featuresStandardOuterWrap .row .learn34GuidesWrap .col-1-4,.thirty-four-day-free-trial .row .learnNetflix4UpLinkWrap .col-1-4:first-child,.thirty-four-day-free-trial .row .learnNetflix4UpLinkWrap .col-1-4:last-child,.post-type-archive-guides .row .learnNetflix4UpLinkWrap .col-1-4:first-child,.post-type-archive-guides .row .learnNetflix4UpLinkWrap .col-1-4:last-child {
+        min-height: 380px;
+        width: 100%;
+        margin: 0 0 6%;
+        background-size: cover;
+        float: none;
+    }
+
+    .top404ImageWrap {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .top404ImageWrap img {
+        width: 100%;
+    }
+
+    .releaseNotesRow .featuresStandardInnerWrap {
+        padding: 0px 20px;
+    }
+
+    .appsMakeEasyWrap .col-1-3 {
+        padding: 20px 2%;
+    }
+
+    .appsMakeEasyWrap .col-1-3 h2,.appsMakeEasyWrap .col-1-3 p {
+        text-align: center;
+    }
+
+    .pressIndWrap,.pressItemsOuterWrap .pressIndWrap:nth-child(3n) {
+        width: 100%;
+        margin: 0 0 3%;
+    }
+
+    .page-template-template-specialpages .featuresStandardInnerWrap .cdLyricsWrap,.page-template-template-specialpages .featuresStandardInnerWrap .cdCoverandQuoteWrap {
+        width: 100%;
+        float: none;
+    }
+
+    .page-template-template-specialpages .featuresStandardInnerWrap .cdLyricsWrap h3,.page-template-template-specialpages .featuresStandardInnerWrap .cdLyricsWrap h4 {
+        text-align: center;
+    }
+
+    .page-template-template-specialpages .featuresStandardInnerWrap .cdCoverandQuoteWrap img {
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    .page-template-template-specialpages .featuresStandardInnerWrap .cdLyricsWrap p {
+        text-align: center;
+    }
+
+    .page-template-template-specialpages .featuresStandardInnerWrap .cdCoverandQuoteWrap iframe {
+        display: none;
+    }
+
+    .page-template-template-specialpages .featuresStandardInnerWrap .cdCoverandQuoteWrap blockquote {
+        display: none;
+    }
+
+    #cdSoundCloudMobile {
+        display: block;
+        margin-bottom: 30px;
+    }
+
+    .landingTwoColumnWrap .ctaBtn a {
+        font-size: 16px;
+    }
+
+    .landingTwoColumnWrap .col-text img {
+        width: 80%;
+    }
+
+    #mixtapeMainYTButton {
+        display: block;
+    }
+
+    .vc_singleColumnText p,.vc_singleColumnText h3,.vc_singleColumnText h2 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row p,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h2,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h3,.single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row h4 {
+        padding: 0 0 24px;
+    }
+
+    .single-post.wpb-js-composer .blogSingleContentInnerWrap .vc_row {
+        padding: 0 4%;
+    }
+
+    .aboutJesseFirstBullets {
+        padding: 0 8%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageJesseWrap img {
+        max-width: 60%;
+    }
+
+    .aboutMeetTeamUpperTextWrap {
+        padding: 20px 14% 0;
+    }
+
+    .aboutMeetTeamGeoIndWrap h4 {
+        font-size: 50px;
+    }
+
+    .aboutMeetTeamGeoIndWrap span {
+        height: 50px;
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+    }
+
+    .aboutMeetTeamGeoIndWrap {
+        width: 33%;
+        height: 98px;
+        margin-bottom: 20px;
+    }
+
+    .aboutMeetTeamGeoWrap img {
+        transform: translate(-50%,280%);
+    }
+
+    .aboutCatWrap {
+        width: 100%;
+        float: none;
+        border-right: none;
+        padding: 0 0 30px 0;
+        border-bottom: solid 3px rgba(7,127,175,0.3);
+    }
+
+    .aboutCatIndWrap {
+        height: 300px;
+        width: 50%;
+    }
+
+    .aboutTacoWrap {
+        width: 100%;
+        float: none;
+        margin-top: 40px;
+    }
+
+    .aboutTeamRandomStatsInd {
+        width: 50%;
+    }
+
+    .aboutGamerStatsInnerWrap {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .aboutGamerStatsOuterWrap .aboutGamerStatsInnerWrap:first-child img,.aboutGamerStatsOuterWrap .aboutGamerStatsInnerWrap:nth-child(3) img {
+        max-width: 60%;
+    }
+
+    .aboutGamerStatsOuterWrap .aboutGamerStatsInnerWrap img {
+        max-width: 50%;
+    }
+
+    .aboutBeardOliveInnerWrap {
+        height: auto;
+        width: 100%;
+        float: none;
+    }
+
+    .about .featuresStandardInnerWrap .aboutBeardOliveInnerWrap img {
+        max-width: 26%;
+    }
+
+    .aboutBeardOliveText {
+        position: relative;
+        bottom: auto;
+        left: auto;
+    }
+
+    .about .featuresStandardInnerWrap .aboutBeardOliveInnerWrap:last-child img {
+        margin-top: 0;
+    }
+
+    .aboutSkillInnerWrap {
+        width: 49.5%;
+    }
+
+    .aboutEmployeeIndWrap {
+        width: 49%;
+    }
+
+    .vc_centeredHeroWhiteText .wpb_single_image .vc_single_image-wrapper {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .homeHeroInnerWrap h1 {
+        padding:0 0 24px;
+    }
+
+    .homeHeroInnerWrap p {
+        font-size: 16px;
+    }
+
+    .homehomeRuleOneScreenMobile li,.homeRuleTwoCatGoalTextBG1 {
+        margin-bottom: 20px;
+    }
+
+    .homehomeRuleOneScreenMobile li:last-child {
+        margin-bottom: 0px;
+    }
+
+    .homehomeRuleOneScreenMobile li p,.homeRuleTwoCatGoalTextBG1 p,.homeRuleTwoCatGoalTextBG2 p {
+        font-size: 14px;
+        width: 88%;
+        padding: 28px 18px 18px;
+    }
+
+    .footerOuterWrap {
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+
+    .footerSocialIcon {
+        padding: 0 4px;
+    }
+
+    .footerSocialIcon a {
+        background-size: 30px auto;
+        height: 30px;
+        width: 30px;
+        font-size: 16px;
+    }
+
+    #homeTree-pos1,#homeTree-pos2,#homeTree-pos3,#homeTree-pos5 {
+        margin: 0 4px;
+        height: 64px;
+        width: 64px;
+    }
+
+    #homeTree-pos1 div,#homeTree-pos2 div,#homeTree-pos3 div,#homeTree-pos5 div {
+        height: 54px;
+        width: 54px;
+        background-size: 54px auto;
+    }
+
+    .homeHeroInnerWrap {
+        min-height: 620px;
+    }
+
+    .homeHeroForeground {
+        bottom: -8%;
+    }
+
+    .homeHeroBackground {
+        bottom: 2%;
+    }
+
+    .featuresHeroNav ul li a {
+        background-size: 60% auto!important;
+        background-position: center center!important;
+        height: 80px;
+        padding-top: 0;
+    }
+
+    .standardHeroInnerWrap p {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .featureMobileImage {
+        width: 100%;
+    }
+
+    .featuresStandardInnerWrap {
+        padding: 40px 20px;
+    }
+
+    .featuresStandardInnerWrap.learnBottomNextSectionInnerWrap {
+        padding: 40px 20px 0;
+    }
+
+    .featuresStandardInnerWrap .col-text p {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .methodWhyItWorksWrap img {
+        width: 100%;
+    }
+
+    .methodWhyItWorksWrap h3,.methodWhyItWorksWrap p {
+        width: 100%;
+    }
+
+    #pricingPageWrapper .pricingStepsWrap,#pricingPageWrapper .pricingFormWrap {
+        width: 100%;
+        padding-right: 20px;
+        padding-left: 20px;
+        box-sizing: border-box;
+    }
+
+    .pricingTestimonialsInnerWrap {
+        width: 100%;
+    }
+
+    .pricingFAQWrap {
+        padding: 40px 4%;
+    }
+
+    .pricingFAQItem li {
+        background-position: 94% 32px;
+    }
+
+    .pricingFAQItem li h4 {
+        padding-right: 12%;
+        font-size: 16px;
+    }
+
+    .blogHomeLoadMoreBtn {
+        width: 94%;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeIndWrap .blogIndTextWrap,.single-post .blogIndTextWrap,.learnNetflixBlogPostsWrap .blogIndTextWrap {
+        width: 70%;
+    }
+
+    .blogHomeIndWrap .blogIndTextWrap h4 a,.single-post .blogIndTextWrap h4 a {
+        font-size: 16px;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeIndWrap,.singleBlogRecentArticlesWrap .blogHomeIndWrap,.learnNetflixBlogPostsWrap .blogHomeIndWrap {
+        min-height: initial;
+        position: relative;
+        padding-bottom: 10px;
+    }
+
+    .blogHomeIndWrap .blogIndTextWrap p,.single-post .blogIndTextWrap p,.evening-without-netflix .featuresStandardInnerWrap .blogIndTextWrap p {
+        font-size: 12px;
+        position: absolute;
+        bottom: 20px;
+        width: 100%;
+        padding: 0 20px;
+        box-sizing: border-box;
+        left: 0;
+        text-align: center;
+    }
+
+    .single-post .blogIndTextWrap {
+        padding-bottom: 40px;
+    }
+
+    #classesTimeZoneWrap select {
+        width: 92%;
+        margin: 0 4%;
+    }
+
+    .classesIndSignUpBtnWrap select {
+        float: none;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .classesIndSignUpBtnWrap .ctaBtn {
+        float: none;
+        width: 100%;
+    }
+
+    .classesIndPostWrap {
+        padding: 0 0 40px;
+    }
+
+    .learn .blogIndTextWrap h4,.learnNetflixBlogPostsWrap .blogIndTextWrap h4 {
+        margin-bottom: 20px;
+    }
+
+    .learnNetflix4UpLinkWrap .col-1-4,.row .learnNetflix4UpLinkWrap .col-1-4:first-child,.row .learnNetflix4UpLinkWrap .col-1-4:last-child {
+        width: 100%;
+    }
+
+    .evening-without-netflix .featuresStandardInnerWrap.learnBottomNextSectionInnerWrap p {
+        font-size: 18px;
+        padding: 0 0 20px;
+    }
+
+    .learnLunchbreak2UpVideosWrap .col-1-2 {
+        margin-bottom: 20px;
+    }
+
+    .learnNavWrap li.learnNavStep2 {
+        left: 22%;
+    }
+
+    .learnNavWrap li.learnNavStep3 {
+        right: 22%;
+    }
+
+    .learnNavWrap li,.learnNavWrap ul {
+        height: 66px;
+    }
+
+    .learnNavWrap li strong {
+        display: none;
+    }
+
+    .generalToast {
+        width: 280px;
+        left: 50%;
+        transform: translate(-50%,0);
+    }
+
+    #blogToast #mc_embed_signup input[type="email"] {
+        width: 164px;
+        padding-left: 16px;
+        background-image: none;
+    }
+
+    .playlistCD4UPWrap .col-1-4,.row .playlistCD4UPWrap .col-1-4:first-child,.row .playlistCD4UPWrap .col-1-4:last-child {
+        width: 100%;
+        padding: 0 2% 4%;
+    }
+
+    .topNotificationInnerWrap {
+        position: relative;
+    }
+
+    .topNotificationInnerWrap p {
+        padding: 0 14% 0 14%;
+        top: 50%;
+        margin-top: -10px;
+        position: absolute;
+    }
+
+    .jobsCostaRicaBG img#polaroidCR {
+        width: 300px;
+        margin: 60px auto;
+    }
+
+    .jobsCostaRicaBG {
+        margin-bottom: 0px;
+    }
+
+    .jobsIntroTextWrap .jobOpeningIndWrap .ctaBtn a {
+        width: 100%;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+    .learnMMLearnTimeWrap ul li a strong {
+        width: 60px;
+        height: 60px;
+    }
+
+    .learnMMLearnTimeWrap ul li a span {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .learnMMLearnTimeWrap ul li {
+        padding: 1% 0;
+    }
+
+    .home .homeHeroInnerWrap,.landing-template-template-home .homeHeroInnerWrap {
+        padding-top: 0;
+    }
+
+    .learnMMLearnTimeWrap h3 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    .aboutJesseFirstBullets {
+        padding: 0;
+    }
+
+    .aboutJesseFirstBullets li span {
+        width: 86%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageJesseWrap img {
+        max-width: 80%;
+    }
+
+    .about .featuresStandardInnerWrap.aboutPageQuoteArea blockquote {
+        width: 96%;
+    }
+
+    .aboutMeetTeamUpperTextWrap {
+        padding: 20px 4% 0;
+    }
+
+    .aboutMeetTeamGeoIndWrap h4 {
+        font-size: 40px;
+    }
+
+    .aboutCatIndWrap {
+        height: auto;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .about .featuresStandardInnerWrap .aboutCatIndWrap img {
+        max-width: 40%;
+        margin-bottom: 10px;
+    }
+
+    .aboutCatIndWrap h4,.aboutCatIndWrap span {
+        position: relative;
+        bottom: auto;
+        left: auto;
+        height: auto;
+    }
+
+    .aboutTeamRandomStatsInd {
+        width: 100%;
+        height: auto;
+    }
+
+    .aboutTeamRandomCircle {
+        height: 110px;
+        width: 110px;
+        margin: -55px 0 0 -55px;
+    }
+
+    .aboutTeamRandomStatsInd h4 {
+        font-size: 70px;
+    }
+
+    .aboutGamerStatsInnerWrap {
+        width: 100%;
+        float: none;
+        height: auto;
+    }
+
+    .aboutGamerStatsInnerWrap img {
+        margin-bottom: 12px;
+    }
+
+    .aboutGamerStatsText {
+        position: relative;
+        bottom: auto;
+        left: auto;
+    }
+
+    .aboutGamerStatsOuterWrap .aboutGamerStatsInnerWrap:first-child img,.aboutGamerStatsOuterWrap .aboutGamerStatsInnerWrap:nth-child(3) img {
+        max-width: 40%;
+    }
+
+    .aboutGamerStatsOuterWrap .aboutGamerStatsInnerWrap img {
+        max-width: 30%;
+    }
+
+    .aboutSciFiInnerWrap div {
+        width: 100%;
+        float: none;
+        margin-bottom: 30px;
+    }
+
+    .aboutSciFiOuterWrap img {
+        width: 40%;
+    }
+
+    .aboutSkillInnerWrap {
+        width: 48.5%;
+    }
+
+    .aboutEmployeeIndWrap {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .homeHeroInnerWrap p {
+        padding:0 0 24px;
+    }
+
+    .heroLowerMessageWrap {
+        font-size: 16px;
+    }
+
+    .heroLowerMessageWrap strong span {
+        top: 12px;
+        left: 4px;
+        width: 70px;
+        height: 2px;
+    }
+
+    .homeHeroInnerWrap {
+        min-height: 620px;
+    }
+
+    .homeHeroForeground {
+        bottom: -4%;
+    }
+
+    .homeNextStepsOuterWrap .ctaBtn a {
+        font-size: 15px;
+        box-sizing: border-box;
+        padding: 18px 20px;
+        width: 100%;
+    }
+
+    .blogHomeLoadMoreBtn {
+        width: 92%;
+        font-size: 13px;
+    }
+
+    .blogHomeOuterBlogsWrap .blogHomeIndWrap,.singleBlogRecentArticlesWrap .blogHomeIndWrap,.learnNetflixBlogPostsWrap .blogHomeIndWrap {
+        padding-bottom: 20px;
+    }
+
+    .learnNavWrap li.learnNavStep2 {
+        left: 21%;
+    }
+
+    .learnNavWrap li.learnNavStep3 {
+        right: 21%;
+    }
+
+    .learnMMLearningItemsWrap li strong,.learnMMLearningItemsWrap li span {
+        margin-left: 14px;
+    }
+
+    .learnMMLearnTimeWrap ul li a strong {
+        width: 48px;
+        height: 48px;
+    }
+
+    .learnMMLearningItemsWrap li a i {
+        display: none;
+    }
+
+    .learnMMLearnTimeWrap p {
+        font-size: 16px;
+    }
+
+    .learnMMLearnTimeWrap ul li a span {
+        height: 28px;
+    }
+
+    .learnMMLearningItemsWrap li a {
+        padding: 6px 0;
+    }
+
+    .features .ctaBtn a {
+        font-size: 15px;
+    }
+}
