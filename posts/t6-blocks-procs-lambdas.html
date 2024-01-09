@@ -21,7 +21,6 @@
 		<div id="menu" class="menu-right">
 			<ul>
 				<li><a href="../index.html"><i class="fa fa-sun-o"></i>Home</a></li>
-				<li><a href="../about.html"><i class="fa fa-user"></i>About</a></li>
 				<li><a href="../contact.html"><i class="fa fa-envelope"></i>Contact</a></li>
 			</ul>
 		</div>
@@ -63,17 +62,17 @@
 				<p>
 					I traversed that hallowed grounds of classes, attribute readers/writers/accesors, and scope this week. And, after all that, when presented with the option to blog on any of the above, I chose something completely different: Blocks, Procs, and Lambdas.
 				</p>
-				
+
 				<h1>Blocks</h1>
 				<p>
 					Blocks are easy to understand in that Procs and Lambdas are applied to them. They're simply code blocks or methods: think of something as simple as the method to add numbers or as complicated as entering your order into a machine at a restaurant. The key to understanding the other two is how they react to the use of return...
 				</p>
-				
+
 				<h1>Lambdas</h1>
 				<p>
-					If a block is made with Lambda (lambda {return "code block!"}), and uses return, it immediately exits itself not only itself but looks to the rest of the method for what to do next. If we revert back to ordering food (with a human this time), think of the process of a restaurant like a method: a host seats you, a server asks for drink, a server returns with drinks, the server asks for appetizers, the server returns for re-fills, the server asks for your main dish, the server returns with appetizers, and, eventually your meal. This is a bit like your server calling lambda on "what can I get you to drink?": they move to the next item in the method of "serve_meals". They don't just walk out of the restaurant. 
+					If a block is made with Lambda (lambda {return "code block!"}), and uses return, it immediately exits itself not only itself but looks to the rest of the method for what to do next. If we revert back to ordering food (with a human this time), think of the process of a restaurant like a method: a host seats you, a server asks for drink, a server returns with drinks, the server asks for appetizers, the server returns for re-fills, the server asks for your main dish, the server returns with appetizers, and, eventually your meal. This is a bit like your server calling lambda on "what can I get you to drink?": they move to the next item in the method of "serve_meals". They don't just walk out of the restaurant.
 				</p>
-				
+
 				<h1>Procs</h1>
 				<p>
 					If a block is made with Proc (Proc.new), and uses return, it immediately exits itself as well as the whole code block. Again with the food. What if you already know what you want as soon as you sit down to eat? Well, then your server can skip the rest of the "ordering food" method once they've asked you what you want to drink and you replied with "actually, here's everything I want".
